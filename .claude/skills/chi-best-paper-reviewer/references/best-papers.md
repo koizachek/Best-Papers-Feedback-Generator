@@ -1,0 +1,797 @@
+# CHI Best Papers (2016–2026)
+
+Compiled via web research in July 2026. This reference covers **Best Paper Award** winners only (the top ~1% of submissions each year); Honorable Mentions (top ~5%) are excluded. It contains the complete official winner lists for all eleven years — 369 papers total (2016: 23, 2017: 21, 2018: 25, 2019: 29, 2020: 31, 2021: 28, 2022: 25, 2023: 35, 2024: 40, 2025: 50, 2026: 62). Coverage is complete for every year; the only caveat is CHI 2017, whose list comes from a cross-validated secondary source because the official awards page no longer exists (see Coverage Notes). Direct DOI links are included where individually verified (CHI 2022–2023); all other papers are findable on dl.acm.org by title under the proceedings DOI prefixes listed in the Coverage Notes.
+
+Papers are organized by category, not by year. Each entry notes what the paper exemplifies about award-worthy CHI work in its category.
+
+## 1. Interaction Techniques & Input
+
+- **Object-Oriented Drawing** (CHI 2016, Best Paper) — Haijun Xia et al.
+  - Exemplifies: A crisp conceptual reframe of a familiar tool (drawing apps) grounded in a clear interaction model, validated with a working system and user study.
+- **FlexCase: Enhancing Mobile Interaction with a Flexible Sensing and Display Cover** (CHI 2016, Best Paper) — Christian Rendl et al.
+  - Exemplifies: Novel flexible-sensor hardware integrated into an everyday form factor (a phone cover), with a systematically explored interaction vocabulary.
+- **Enhancing Cross-Device Interaction Scripting with Interactive Illustrations** (CHI 2016, Best Paper) — Pei-Yu (Peggy) Chi et al.
+  - Exemplifies: Developer-facing interaction design — making multi-device behavior programmable through direct, illustrated demonstration.
+- **Learn Piano with BACh: An Adaptive Learning Interface that Adjusts Task Difficulty Based on Brain State** (CHI 2016, Best Paper) — Beste F. Yuksel et al.
+  - Exemplifies: Physiological sensing (fNIRS brain state) turned into a closed-loop adaptive interface with a measurable learning benefit.
+- **Building a Personalized, Auto-Calibrating Eye Tracker from User Interactions** (CHI 2016, Best Paper) — Michael Xuelin Huang et al.
+  - Exemplifies: Removing a practical barrier (explicit calibration) by learning from natural interaction data — making gaze input viable in the wild.
+- **BIGnav: Bayesian Information Gain for Guiding Multiscale Navigation** (CHI 2017, Best Paper) — Wanyu Liu et al.
+  - Exemplifies: Information-theoretic modeling applied to interaction — a principled mathematical framework yielding a concretely faster technique.
+- **Modelling Learning of New Keyboard Layouts** (CHI 2017, Best Paper) — Jussi P. P. Jokinen et al.
+  - Exemplifies: Cognitive modeling that predicts skill acquisition for input methods, letting designers reason about learnability before building.
+- **Agile 3D Sketching with Air Scaffolding** (CHI 2018, Best Paper) — Yongkwan Kim et al.
+  - Exemplifies: Combining two input modalities (mid-air gestures and pen sketching) so each covers the other's weakness, with workflow-level evaluation.
+- **Voice Interfaces in Everyday Life** (CHI 2018, Best Paper) — Martin Porcheron et al.
+  - Exemplifies: Conversation-analytic study of how voice assistants are actually embedded in family life — challenging the "conversation" metaphor with fine-grained naturalistic data.
+- **Expressive Time Series Querying with Hand-Drawn Scale-Free Sketches** (CHI 2018, Best Paper) — Miro Mannino & Azza Abouzied.
+  - Exemplifies: Sketching as a query language — matching input technique to how analysts naturally think about temporal patterns.
+- **ReType: Quick Text Editing with Keyboard and Gaze** (CHI 2019, Best Paper) — Shyamli Sindhwani et al.
+  - Exemplifies: Gaze as a complement rather than replacement for the keyboard, addressing a genuine bottleneck (edit targeting) with quantified gains.
+- **PicMe: Interactive Visual Guidance for Taking Requested Photo Composition** (CHI 2019, Best Paper) — Minju Kim & Jungjin Lee.
+  - Exemplifies: Interactive guidance for a mundane collaborative task (taking a photo for someone else), showing everyday problems merit technique innovation.
+- **Managing Messes in Computational Notebooks** (CHI 2019, Best Paper) — Andrew Head et al.
+  - Exemplifies: Studying a real pain point in data scientists' workflow and delivering interaction techniques (code gathering) that directly address it.
+- **PenSight: Enhanced Interaction with a Pen-Top Camera** (CHI 2020, Best Paper) — Fabrice Matulic et al.
+  - Exemplifies: A simple hardware augmentation (camera on the pen top) that opens a large, systematically explored design space of new pen techniques.
+- **texSketch: Active Diagramming through Pen-and-Ink Annotations** (CHI 2020, Best Paper) — Hariharan Subramonyam et al.
+  - Exemplifies: Pen interaction grounded in learning science — supporting active reading through diagramming rather than passive highlighting.
+- **Trigeminal-based Temperature Illusions** (CHI 2020, Best Paper) — Jas Brooks et al.
+  - Exemplifies: Drawing on chemesthesis/perception science to create an entirely new output channel (chemical temperature illusions), with psychophysical validation.
+- **CapContact: Super-resolution Contact Areas from Capacitive Touchscreens** (CHI 2021, Best Paper) — Paul Streli & Christian Holz.
+  - Exemplifies: Deep learning applied beneath the interface — reconstructing true finger contact from commodity capacitive sensors — improving a foundational input primitive.
+- **RadarNet: Efficient Gesture Recognition Technique Utilizing a Miniaturized Radar Sensor** (CHI 2021, Best Paper) — Eiji Hayashi et al.
+  - Exemplifies: Making an exotic sensing modality (miniature radar) practical for products through efficiency-focused recognition engineering.
+- **Increasing Electrical Muscle Stimulation's Dexterity by means of Back of the Hand Actuation** (CHI 2021, Best Paper) — Akifumi Takahashi et al.
+  - Exemplifies: Solving a core limitation of EMS (poor dexterity) through anatomical insight — actuating from the back of the hand.
+- **Math Augmentation: How Authors Enhance the Readability of Formulas using Novel Visual Design Practices** (CHI 2022, Best Paper) — Andrew Head et al. [Paper](https://doi.org/10.1145/3491102.3501932)
+  - Exemplifies: Mining expert practice (how authors visually augment math) to derive design dimensions for future reading and authoring tools.
+- **Squeezy-Feely: Investigating Lateral Thumb-Index Pinching as an Input Modality** (CHI 2022, Best Paper) — Martin Schmitz et al. [Paper](https://doi.org/10.1145/3491102.3501981)
+  - Exemplifies: Systematic empirical characterization (bandwidth, precision) of a new microgesture modality before proposing applications.
+- **CiteSee: Augmenting Citations in Scientific Papers with Persistent and Personalized Historical Context** (CHI 2023, Best Paper) — Joseph Chee Chang et al. [Paper](https://doi.org/10.1145/3544548.3580847)
+  - Exemplifies: Interaction design for knowledge work — augmenting reading with personal context, evaluated in realistic literature-review tasks.
+- **Full-hand Electro-Tactile Feedback without Obstructing Palmar Side of Hand** (CHI 2023, Best Paper) — Yudai Tanaka et al. [Paper](https://doi.org/10.1145/3544548.3581382)
+  - Exemplifies: Haptic actuation relocated so the hand stays free for real-world manipulation — technique innovation driven by an ergonomic constraint.
+- **LipLearner: Customizable Silent Speech Interactions on Mobile Devices** (CHI 2023, Best Paper) — Zixiong Su et al. [Paper](https://doi.org/10.1145/3544548.3581465)
+  - Exemplifies: Few-shot on-device learning making a niche input technique (silent speech) practical and user-customizable on commodity phones.
+- **SplitBody: Reducing Mental Workload while Multitasking via Muscle Stimulation** (CHI 2024, Best Paper) — Romain Nith et al.
+  - Exemplifies: Electrical muscle stimulation reframed as offloading a task from conscious control — a provocative body-as-platform idea backed by workload measures.
+- **PsiNet: Toward Understanding the Design of Brain-to-Brain Interfaces for Augmenting Inter-Brain Synchrony** (CHI 2024, Best Paper) — Nathan Semertzidis et al.
+  - Exemplifies: Frontier neurotechnology (brain-to-brain interfaces) approached through HCI design research rather than pure engineering.
+- **Cooking With Agents: Designing Context-aware Voice Interaction** (CHI 2024, Best Paper) — Razan Jaber et al.
+  - Exemplifies: Grounding voice-agent design in the situated, hands-busy reality of a task domain (cooking) with context-aware prototypes.
+- **Constrained Highlighting in a Document Reader can Improve Reading Comprehension** (CHI 2024, Best Paper) — Nikhita Joshi & Daniel Vogel.
+  - Exemplifies: A counterintuitive, simple intervention (limiting highlighting) validated experimentally against a cognitively meaningful outcome.
+- **Curves Ahead: Enhancing the Steering Law for Complex Curved Trajectories** (CHI 2025, Best Paper) — Jennie J. Y. Chen & Sidney S. Fels.
+  - Exemplifies: Extending a classic predictive model of motor performance (the steering law) — foundational quantitative HCI still earns top awards.
+- **GazeSwipe: Enhancing Mobile Touchscreen Reachability through Seamless Gaze and Finger-Swipe Integration** (CHI 2025, Best Paper) — Zhuojiang Cai et al.
+  - Exemplifies: Multimodal fusion (gaze plus swipe) solving an everyday ergonomic problem — one-handed reachability — without added hardware.
+- **A decision-theoretic representation of assistive interfaces** (CHI 2026, Best Paper) — Julien Gori et al.
+  - Exemplifies: A unifying formal account of input assistance (autocorrect, prediction, etc.) — theory that organizes a whole class of techniques.
+- **Generative Muscle Stimulation: Physical Assistance by Constraining Multimodal-AI with Embodied Knowledge** (CHI 2026, Best Paper) — Yun Ho et al.
+  - Exemplifies: Coupling multimodal AI models with EMS actuation so generated assistance respects biomechanical constraints — a template for AI-driven physical interfaces.
+- **ThreeTopo: Focused Interactive Navigation for Multi-Pitch Rock Climbing** (CHI 2026, Best Paper) — Ben Pearman et al.
+  - Exemplifies: Interaction design for an extreme use context (mid-climb navigation), where attention, safety, and terrain constrain every choice.
+
+## 2. Accessibility & Inclusive Design
+
+- **Designing Movement-based Play With Young People Using Powered Wheelchairs** (CHI 2016, Best Paper) — Kathrin Gerling et al.
+  - Exemplifies: Participatory design of playful technology with (not for) disabled young people, treating play as a right rather than therapy.
+- **Enabling Designers to Foresee Which Colors Users Cannot See** (CHI 2016, Best Paper) — Katharina Reinecke et al.
+  - Exemplifies: Shifting accessibility labor from end users to designers with a data-driven tool — large-scale empirical modeling in service of inclusion.
+- **Haptic Wave: A Cross-Modal Interface for Visually Impaired Audio Producers** (CHI 2016, Best Paper) — Atau Tanaka & Adam Parkinson.
+  - Exemplifies: Accessibility for professional creative work — cross-modal translation (audio waveforms to haptics) co-designed with blind audio engineers.
+- **Smart Touch: Improving Touch Accuracy for People with Motor Impairments with Template Matching** (CHI 2016, Best Paper) — Martez E. Mott et al.
+  - Exemplifies: Ability-based design — adapting the system to each user's touch behavior instead of demanding conformance, with strong accuracy gains.
+- **Making as Expression: Informing Design with People with Complex Communication Needs through Art Therapy** (CHI 2018, Best Paper) — Amanda Lazar et al.
+  - Exemplifies: Art therapy as a design-elicitation setting for people whom conventional methods exclude — methodological inclusion, not just product inclusion.
+- **Voice User Interfaces in Schools: Co-designing for Inclusion With Visually-Impaired and Sighted Pupils** (CHI 2019, Best Paper) — Oussama Metatla et al.
+  - Exemplifies: Mixed-ability co-design in a real setting (mainstream schools), designing for inclusion between groups rather than a special-purpose aid.
+- **Project Sidewalk: A Web-based Crowdsourcing Tool for Collecting Sidewalk Accessibility Data At Scale** (CHI 2019, Best Paper) — Manaswi Saha et al.
+  - Exemplifies: Accessibility at urban scale — crowdsourcing plus deployment evidence, connecting HCI systems work to civic infrastructure.
+- **Designing Clinical AAC Tablet Applications with Adults who have Mild Intellectual Disabilities** (CHI 2020, Best Paper) — Ryan Colin Gibson et al.
+  - Exemplifies: AAC design that includes adults with intellectual disabilities as design partners in a clinical communication context.
+- **Robots for Inclusive Play: Co-designing an Educational Game With Visually Impaired and Sighted Children** (CHI 2020, Best Paper) — Oussama Metatla et al.
+  - Exemplifies: Inclusive co-design with mixed-visual-ability children, producing concrete artifacts and transferable design principles.
+- **A Design Engineering Approach for Quantitatively Exploring Context-Aware Sentence Retrieval for Nonspeaking Individuals with Motor Disabilities** (CHI 2020, Best Paper) — Per Ola Kristensson et al.
+  - Exemplifies: Rigorous quantitative design engineering applied to AAC — modeling the real communication-rate gains of context-aware prediction.
+- **Designing Trans Technology: Defining Challenges and Envisioning Community-Centered Solutions** (CHI 2020, Best Paper) — Oliver L. Haimson et al.
+  - Exemplifies: Community-centered needfinding that defines a design space for an underserved population and hands the agenda to that community.
+- **Screen Recognition: Creating Accessibility Metadata for Mobile Applications from Pixels** (CHI 2021, Best Paper) — Xiaoyi Zhang et al.
+  - Exemplifies: ML inferring accessibility metadata where developers failed to provide it — research with a direct path to OS-scale deployment.
+- **Understanding Data Accessibility for People with Intellectual and Developmental Disabilities** (CHI 2021, Best Paper) — Keke Wu et al.
+  - Exemplifies: Extending visualization accessibility beyond blind/low-vision users to cognitive accessibility, with empirical chart-comprehension evidence.
+- **Including the Experiences of Physically Disabled Players in Mainstream Guidelines for Movement-Based Games** (CHI 2022, Best Paper) — Liam Mason et al. [Paper](https://doi.org/10.1145/3491102.3501867)
+  - Exemplifies: Auditing mainstream design guidelines against disabled players' lived experience and revising the guidelines themselves.
+- **3D Printed Street Crossings: Supporting Orientation and Mobility Training with People who are Blind or have Low Vision** (CHI 2022, Best Paper) — Leona M. Holloway et al. [Paper](https://doi.org/10.1145/3491102.3502072)
+  - Exemplifies: Fabrication in service of accessibility practice — tactile maps embedded in real orientation-and-mobility training workflows.
+- **"It's Kind of Like Code-Switching": Black Older Adults' Experiences with a Voice Assistant for Health Information Seeking** (CHI 2022, Best Paper) — Christina Harrington et al. [Paper](https://doi.org/10.1145/3491102.3501995)
+  - Exemplifies: Intersectional analysis (race, age, health access) revealing how "neutral" voice interfaces impose linguistic burdens on marginalized users.
+- **Envisioning the (In)Visibility of Discreet and Wearable AAC Devices** (CHI 2023, Best Paper) — Humphrey Curtis et al. [Paper](https://doi.org/10.1145/3544548.3580936)
+  - Exemplifies: Centering the social meaning of assistive hardware (visibility, stigma, disclosure) rather than only its function.
+- **Take My Hand: Automated Hand-Based Spatial Guidance for the Visually Impaired** (CHI 2023, Best Paper) — Adil Rahman et al. [Paper](https://doi.org/10.1145/3544548.3581415)
+  - Exemplifies: Automating a trusted human assistance pattern (guiding the hand) — technique work grounded in how sighted guides actually help.
+- **"My Zelda Cane": Strategies Used by Blind Players to Play Visual-Centric Digital Games** (CHI 2023, Best Paper) — David Gonçalves et al. [Paper](https://doi.org/10.1145/3544548.3580702)
+  - Exemplifies: Documenting user workarounds as design knowledge — blind players' appropriation strategies as a foundation for accessible game design.
+- **Designing for Harm Reduction: Communication Repair for Multicultural Users' Voice Interactions** (CHI 2024, Best Paper) — Kimi Wenzel & Geoff Kaufman.
+  - Exemplifies: Naming and mitigating the identity harms of speech-recognition failure for accented speakers — reframing errors as harms, not just inaccuracy.
+- **Towards Robotic Companions: Understanding Handler-Guide Dog Interactions for Informed Guide Dog Robot Design** (CHI 2024, Best Paper) — Hochul Hwang et al.
+  - Exemplifies: Deep formative fieldwork with handlers and trainers before building — grounding assistive robotics in real interdependence practices.
+- **"It Brought the Model to Life": Exploring the Embodiment of Multimodal I3Ms for People who are Blind or have Low Vision** (CHI 2025, Best Paper) — Samuel Reinders et al.
+  - Exemplifies: Interactive 3D-printed models studied for embodied, multimodal meaning-making — accessibility beyond screen readers.
+- **AACessTalk: Fostering Communication between Minimally Verbal Autistic Children and Parents with Contextual Guidance and Card Recommendation** (CHI 2025, Best Paper) — Dasom Choi et al.
+  - Exemplifies: AI-assisted AAC designed around the parent-child dyad, evaluated in real family deployments rather than lab tasks.
+- **"It Helps Us Express Our Feelings Without Having To Say Anything": Accompanying Social Play Things for Neurodiverse Children** (CHI 2025, Best Paper) — Brooke Morris et al.
+  - Exemplifies: Designing playful tangibles with neurodiverse children on their own communicative terms — inclusion through play, not remediation.
+- **Speculating Deaf Tech: Reimagining Technologies Centering Deaf People** (CHI 2025, Best Paper) — Robin Angelini et al.
+  - Exemplifies: Speculative design led by Deaf perspectives — imagining technology from Deaf epistemologies instead of hearing-centered "fixes."
+- **Cripping the Co-Design of Pacing Technologies For Energy-Limiting Conditions** (CHI 2025, Best Paper) — Sarah Homewood et al.
+  - Exemplifies: Adapting co-design methods themselves to participants' energy limits — crip theory reshaping how research is conducted.
+- **SpeechCompass: Enhancing Mobile Captioning with Diarization and Directional Guidance via Multi-Microphone Localization** (CHI 2025, Best Paper) — Artem Dementyev et al.
+  - Exemplifies: Solving a concrete gap in mobile captioning (who is speaking, from where) with practical signal-processing engineering.
+- **AI That Moves With You: A Review of Interactive Technologies Powered by Large Foundation Models for Mobility Impairment** (CHI 2026, Best Paper) — Duosi Dai et al.
+  - Exemplifies: A systematic map of how foundation models are reshaping mobility-assistive technology — orienting a fast-moving intersection.
+- **How They Type: Eye and Finger Movement Strategies in Typing of Individuals with Cerebral Palsy** (CHI 2026, Best Paper) — Tingting Song et al.
+  - Exemplifies: Fine-grained empirical characterization of disabled users' actual input strategies as the evidence base for future technique design.
+- **GeoVisA11y: An AI-based Geovisualization Question-Answering System for Screen-Reader Users** (CHI 2026, Best Paper) — Chu Li et al.
+  - Exemplifies: AI question-answering making map visualizations accessible to screen-reader users — closing a long-standing modality gap.
+- **iTagPDF: Towards Finally Automating PDF Accessibility** (CHI 2026, Best Paper) — Peya Mowar et al.
+  - Exemplifies: Attacking a long-standing, unglamorous accessibility bottleneck (untagged PDFs) at scale — impact through infrastructure.
+- **Let's Make a Community [of Practice]: Community-Based Participatory Design to Support Interdependence** (CHI 2026, Best Paper) — Elaine Czech et al.
+  - Exemplifies: Participatory design organized around interdependence rather than individual independence — a values shift enacted in method.
+- **µCap: Instrumental Music Captions for Deaf and Hard-of-Hearing Individuals** (CHI 2026, Best Paper) — SooYeon Ahn et al.
+  - Exemplifies: Extending captioning beyond speech to instrumental music — access to aesthetic experience, not just information.
+
+## 3. Health, Wellbeing & Care
+
+- **On Looking at the Vagina through Labella** (CHI 2016, Best Paper) — Teresa Almeida et al.
+  - Exemplifies: Breaking a taboo topic (intimate bodily health) open for HCI with a carefully designed hybrid artifact and feminist framing.
+- **Lock n' LoL: Group-based Limiting Assistance App to Mitigate Smartphone Distractions in Group Activities** (CHI 2016, Best Paper) — Minsam Ko et al.
+  - Exemplifies: Digital wellbeing designed as a social mechanism (group commitment) rather than individual willpower, validated in a large field deployment.
+- **Examining Menstrual Tracking to Inform the Design of Personal Informatics Tools** (CHI 2017, Best Paper) — Daniel A. Epstein et al.
+  - Exemplifies: Large-scale mixed-methods study that legitimized menstrual tracking as a personal-informatics domain and surfaced concrete design failures.
+- **mHealth for Maternal Mental Health: Everyday Wisdom in Ethical Design** (CHI 2017, Best Paper) — Marguerite Barry et al.
+  - Exemplifies: Ethics treated as a design material — eliciting stakeholders' "everyday wisdom" to shape sensitive mental-health technology.
+- **A Critical Lens on Dementia and Design in HCI** (CHI 2017, Best Paper) — Amanda Lazar et al.
+  - Exemplifies: Critically re-examining how a whole population is framed by HCI (deficit vs. personhood), changing the field's default stance on dementia.
+- **Engagement with Mental Health Screening on Mobile Devices: Results from an Antenatal Feasibility Study** (CHI 2019, Best Paper) — Kevin Doherty et al.
+  - Exemplifies: Real-world clinical feasibility evidence for mobile mental-health screening — HCI meeting health research standards in the field.
+- **A Tale of Two Perspectives: A Conceptual Framework of User Expectations and Experiences of Instructional Fitness Apps** (CHI 2019, Best Paper) — Ahed Aladwan et al.
+  - Exemplifies: Conceptual framework-building that explains why fitness apps disappoint — bridging user expectations and designed experience.
+- **Designing Ambient Narrative-Based Interfaces to Reflect and Motivate Physical Activity** (CHI 2020, Best Paper) — Elizabeth L. Murnane et al.
+  - Exemplifies: Behavior change through ambient narrative aesthetics instead of charts and streaks — theory-informed alternative to quantified-self tropes.
+- **Designing and Evaluating Calmer, a Device for Simulating Maternal Skin-to-Skin Holding for Premature Infants** (CHI 2020, Best Paper) — Sabrina Hauser et al.
+  - Exemplifies: Design research carried into a NICU with physiological outcome measures — rare end-to-end rigor from concept to clinical evidence.
+- **The Role of Everyday Sounds in Advanced Dementia Care** (CHI 2020, Best Paper) — Maarten Houben et al.
+  - Exemplifies: Subtle, non-pharmacological intervention (soundscapes) studied in situ with people with advanced dementia — designing for those hardest to include.
+- **"Can I Not Be Suicidal on a Sunday?": Understanding Technology-Mediated Pathways to Mental Health Support** (CHI 2021, Best Paper) — Sachin R. Pendse et al.
+  - Exemplifies: Centering help-seekers' lived pathways through crisis infrastructure, exposing gaps between platform design and moments of need.
+- **Designing Menstrual Technologies with Adolescents** (CHI 2021, Best Paper) — Marie Louise Juul Søndergaard et al.
+  - Exemplifies: Sensitive participatory design with teens on a stigmatized topic, contributing both methods and design directions.
+- **Investigating Daily Practices of Self-care to Inform the Design of Supportive Health Technologies for Living and Ageing Well with HIV** (CHI 2022, Best Paper) — Caroline Claisse et al. [Paper](https://doi.org/10.1145/3491102.3501970)
+  - Exemplifies: Long-term chronic-condition self-care studied holistically — designing for living well, not just adherence.
+- **The TAC Toolkit: Supporting Design for User Acceptance of Health Technologies from a Macro-Temporal Perspective** (CHI 2022, Best Paper) — Camille Nadal et al. [Paper](https://doi.org/10.1145/3491102.3502039)
+  - Exemplifies: Turning acceptance theory into a usable design toolkit — packaging research knowledge for health-tech practitioners.
+- **"I Wanted to See How Bad It Was": Online Self-screening as a Critical Transition Point Among Young Adults with Common Mental Health Conditions** (CHI 2022, Best Paper) — Kaylee Payne Kruzan et al. [Paper](https://doi.org/10.1145/3491102.3501976)
+  - Exemplifies: Identifying a pivotal moment (self-screening) in mental-health journeys and deriving design responsibilities for that moment.
+- **Infrastructuring Care: How Trans and Non-Binary People Meet Health and Well-Being Needs through Technology** (CHI 2023, Best Paper) — Lauren Wilcox et al. [Paper](https://doi.org/10.1145/3544548.3581040)
+  - Exemplifies: Reframing care as community infrastructure assembled by marginalized users when formal systems fail them.
+- **Investigating the Role of Context in the Delivery of Text Messages for Supporting Psychological Wellbeing** (CHI 2023, Best Paper) — Ananya Bhattacharjee et al. [Paper](https://doi.org/10.1145/3544548.3580774)
+  - Exemplifies: Careful experimental unpacking of when and in what context micro-interventions help — mechanism, not just efficacy.
+- **The Walking Talking Stick: Understanding Automated Note-Taking in Walking Meetings** (CHI 2023, Best Paper) — Luke Haliburton et al. [Paper](https://doi.org/10.1145/3544548.3580986)
+  - Exemplifies: A tangible artifact that removes the last excuse against healthy work practices (walking meetings), tested in real workplaces.
+- **Designing for Caregiver-facing Values Elicitation Tools** (CHI 2024, Best Paper) — Pin Sym Foong et al.
+  - Exemplifies: Tools that surface care recipients' values through caregivers — design for the relational reality of care decisions.
+- **Mindfulness-based Embodied Tangible Interactions for Stroke Rehabilitation at Home** (CHI 2024, Best Paper) — Preetham Madapura Nagaraj et al.
+  - Exemplifies: Rehabilitation technology that unites mindfulness, embodiment, and tangibles for sustainable home therapy.
+- **Technology-Mediated Non-pharmacological Interventions for Dementia** (CHI 2024, Best Paper) — Yuling Sun et al.
+  - Exemplifies: Systematizing how technology supports non-drug dementia care — grounding intervention design in caregiving realities.
+- **"I know I have this till my Last Breath": Unmasking the Gaps in COPD Care in India** (CHI 2024, Best Paper) — Gautami Tripathi et al.
+  - Exemplifies: Chronic-illness care studied in a low-resource health system, exposing infrastructure gaps technology design must respect.
+- **MigraineTracker: Examining Patient Experiences with Goal-Directed Self-Tracking for a Chronic Health Condition** (CHI 2024, Best Paper) — Yasaman S. Sefidgar et al.
+  - Exemplifies: Longitudinal deployment showing how tracking must serve patients' own goals (validation, communication) beyond data collection.
+- **"This app said I had severe depression, and now I don't know what to do": the unintentional harms of mental health applications** (CHI 2024, Best Paper) — Rachael M. Kang & Tera L. Reynolds.
+  - Exemplifies: Systematic evidence of harms from well-intentioned health apps — the critical safety counterweight to mHealth enthusiasm.
+- **Understanding Feedback in Rhythmic Gymnastics Training: An Ethnographic-Informed Study of a Competition Class** (CHI 2024, Best Paper) — Leonor Portugal da Fonseca et al.
+  - Exemplifies: Ethnography of embodied skill training (gymnastics feedback) before any technology is proposed — sports HCI grounded in practice.
+- **Exploring Data-Driven Advocacy in Home Health Care Work** (CHI 2025, Best Paper) — Joy Ming et al.
+  - Exemplifies: Data tools reimagined as advocacy instruments for undervalued care workers — health informatics attentive to labor.
+- **Towards Hormone Health: An Autoethnography of Long-Term Holistic Tracking to Manage PCOS** (CHI 2025, Best Paper) — Daye Kang et al.
+  - Exemplifies: First-person, multi-year autoethnography as rigorous evidence for designing around complex, poorly-served chronic conditions.
+- **(Re)discovering Sexual Pleasure after Cancer: Understanding the Design Space** (CHI 2025, Best Paper) — Céline Offerman et al.
+  - Exemplifies: Opening a stigmatized survivorship topic as a legitimate design space, mapping needs with sensitivity and specificity.
+- **Deploying and Examining Beacon for At-Home Patient Self-Monitoring with Critical Flicker Frequency** (CHI 2025, Best Paper) — Richard Li et al.
+  - Exemplifies: Translating a clinical measure (critical flicker frequency) into an at-home self-monitoring device, deployed with real patients.
+- **FluidTrack: Investigating Child-Parent Collaborative Tracking for Pediatric Voiding Dysfunction Management** (CHI 2025, Best Paper) — Junhyung Moon et al.
+  - Exemplifies: Health tracking designed for the child-parent dyad — collaboration, not surveillance, as the tracking model.
+- **Tracking and its Potential for Older Adults with Memory Concerns** (CHI 2025, Best Paper) — Amelia Short et al.
+  - Exemplifies: Rethinking self-tracking for cognitive change in aging — supporting memory without pathologizing it.
+- **Bloom: Designing for LLM-Augmented Behavior Change Interactions** (CHI 2026, Best Paper) — Matthew Jörke et al.
+  - Exemplifies: Grounding LLM-based coaching in behavior-change theory and testing it longitudinally — AI health support with theoretical spine.
+- **Designing for Long-Term Emotion Regulation: A Breathing Biofeedback Game for Women in Compulsory Isolation Drug Rehabilitation Centers** (CHI 2026, Best Paper) — Qi Chen et al.
+  - Exemplifies: Biofeedback games deployed in a constrained institutional setting (compulsory rehabilitation) — wellbeing design where autonomy is scarce.
+- **From Preference to Performance: Patient-Centered Design of Multimodal Cueing in Parkinson's Disease Gait Training** (CHI 2026, Best Paper) — Xinjin Li et al.
+  - Exemplifies: Reconciling what patients prefer with what clinically works — patient-centered design held to performance evidence.
+- **Managing Medication Plans When Information Is Scattered: Clinicians' Strategies and Tools** (CHI 2026, Best Paper) — Anastasiya Zakreuskaya et al.
+  - Exemplifies: Studying clinicians' workarounds across fragmented health IT — informatics grounded in real coordination work.
+- **Promise or Peril? Black Adults' Perspectives on AI in Health Contexts** (CHI 2026, Best Paper) — Andrea G. Parker et al.
+  - Exemplifies: Health-AI attitudes studied through the lens of a community with historical reasons for medical distrust — equity as an empirical question.
+- **Sex after Cancer: Co-Designing Bespoke Care Technologies for Post-Cancer Bodies** (CHI 2026, Best Paper) — Céline Offerman et al.
+  - Exemplifies: Carrying an earlier design-space mapping into co-designed bespoke care artifacts — a research program maturing from understanding to intervention.
+- **Stress Mindset Matters: Rethinking Mental Stress Detection with Multimodal Wearable Sensors** (CHI 2026, Best Paper) — Lakmal Meegahapola et al.
+  - Exemplifies: Showing that psychological framing (stress mindset) changes what wearable sensors can detect — challenging one-size-fits-all affective computing.
+- **When Workout Buddies Are Virtual: AI Agents and Human Peers in a Longitudinal Physical Activity Study** (CHI 2026, Best Paper) — Alessandro Silacci et al.
+  - Exemplifies: Longitudinal comparison of AI companions against human peers for exercise motivation — honest benchmarking of AI social support.
+
+## 4. AR/VR & Immersive Experiences
+
+- **ShareVR: Enabling Co-Located Experiences for Virtual Reality between HMD and Non-HMD Users** (CHI 2017, Best Paper) — Jan Gugenheimer et al.
+  - Exemplifies: Tackling VR's social isolation problem head-on — asymmetric co-located play, prototyped and evaluated with pairs.
+- **Fingertip Tactile Devices for Virtual Object Manipulation and Exploration** (CHI 2017, Best Paper) — Samuel B. Schorr & Allison M. Okamura.
+  - Exemplifies: Wearable haptics grounded in psychophysics, enabling believable object properties in VR without grounded force feedback.
+- **Pinpointing: Precise Head- and Eye-Based Target Selection for Augmented Reality** (CHI 2018, Best Paper) — Mikko Kytö et al.
+  - Exemplifies: Rigorous comparative study of refinement techniques for a core AR problem (precise selection) — foundational technique work.
+- **AffinityLens: Data-Assisted Affinity Diagramming with Augmented Reality** (CHI 2019, Best Paper) — Hariharan Subramonyam et al.
+  - Exemplifies: AR augmenting a beloved analog practice (paper affinity diagramming) instead of replacing it — respecting the materiality of design work.
+- **MRAT: The Mixed Reality Analytics Toolkit** (CHI 2020, Best Paper) — Michael Nebeling et al.
+  - Exemplifies: Infrastructure for a maturing field — analytics tooling that lets MR researchers and developers evaluate experiences systematically.
+- **Wireality: Enabling Complex Tangible Geometries in Virtual Reality with Worn Multi-String Haptics** (CHI 2020, Best Paper) — Cathy Fang et al.
+  - Exemplifies: Clever low-cost mechanical design (string brakes) delivering whole-hand geometry haptics — inventive hardware with immediate demo-ability.
+- **Isness: Using Multi-Person VR to Design Peak Mystical Type Experiences Comparable to Psychedelics** (CHI 2020, Best Paper) — David R. Glowacki et al.
+  - Exemplifies: VR as a vehicle for profound experience design, evaluated with validated instruments from psychedelic research — bold interdisciplinarity.
+- **Creating Augmented and Virtual Reality Applications: Current Practices, Challenges, and Opportunities** (CHI 2020, Best Paper) — Narges Ashtari et al.
+  - Exemplifies: Studying AR/VR creators as users — surfacing the tooling barriers that gate who gets to build immersive experiences.
+- **Impact of Task on Attentional Tunneling in Handheld Augmented Reality** (CHI 2021, Best Paper) — Brandon Victor Syiem et al.
+  - Exemplifies: Quantifying a safety-relevant cognitive cost of AR (attentional tunneling) and how task design modulates it.
+- **XRgonomics: Facilitating the Creation of Ergonomic 3D Interfaces** (CHI 2021, Best Paper) — João Marcelo Evangelista Belo et al.
+  - Exemplifies: Computational ergonomics turned into a practical tool for placing 3D UI elements — models made usable for designers.
+- **How to Evaluate Object Selection and Manipulation in VR? Guidelines from 20 Years of Studies** (CHI 2021, Best Paper) — Joanna Bergström et al.
+  - Exemplifies: Synthesizing two decades of scattered evaluations into actionable methodological guidelines — community-level housekeeping that earns awards.
+- **AirRacket: Perceptual Design of Ungrounded, Directional Force Feedback to Improve Virtual Racket Sports Experiences** (CHI 2022, Best Paper) — Ching-Yi Tsai et al. [Paper](https://doi.org/10.1145/3491102.3502034)
+  - Exemplifies: Perception-driven haptic design (jet propulsion for impact feedback) tuned through iterative psychophysical studies for sports realism.
+- **Causality-preserving Asynchronous Reality** (CHI 2022, Best Paper) — Andreas Rene Fender & Christian Holz. [Paper](https://doi.org/10.1145/3491102.3501836)
+  - Exemplifies: A genuinely new mixed-reality concept (replaying reality while preserving causality) with a working end-to-end system.
+- **Mouth Haptics in VR using a Headset Ultrasound Phased Array** (CHI 2022, Best Paper) — Vivian Shen et al. [Paper](https://doi.org/10.1145/3491102.3501960)
+  - Exemplifies: Targeting an unexplored body site (the mouth) with existing actuation technology — high-novelty hardware plus perceptual studies.
+- **Collaborating Across Realities: Analytical Lenses for Understanding Dyadic Collaboration in Transitional Interfaces** (CHI 2023, Best Paper) — Jan-Henrik Schröder et al. [Paper](https://doi.org/10.1145/3544548.3580879)
+  - Exemplifies: Analytical lenses for collaboration that spans desktop, AR, and VR — conceptual tools for the coming heterogeneous-reality workplace.
+- **Going, Going, Gone: Exploring Intention Communication for Multi-User Locomotion in Virtual Reality** (CHI 2023, Best Paper) — Julian Rasch et al. [Paper](https://doi.org/10.1145/3544548.3581259)
+  - Exemplifies: Social VR's coordination problem (where is my partner about to teleport?) addressed with designed intention cues and dyadic studies.
+- **Sensorimotor Simulation of Redirected Reaching using Stochastic Optimal Feedback Control** (CHI 2023, Best Paper) — Eric J. Gonzalez & Sean Follmer. [Paper](https://doi.org/10.1145/3544548.3580767)
+  - Exemplifies: Computational modeling of human motor control predicting how far VR illusions can be pushed — theory that replaces trial-and-error.
+- **Understanding Context to Capture when Reconstructing Meaningful Spaces for Remote Instruction and Connecting in XR** (CHI 2023, Best Paper) — Hanuma Teja Maddali & Amanda Lazar. [Paper](https://doi.org/10.1145/3544548.3581243)
+  - Exemplifies: Asking what of a real place must survive XR reconstruction for connection across generations — human meaning driving capture technology.
+- **Seated-WIP: Enabling Walking-in-Place Locomotion for Stationary Chairs in Confined Spaces** (CHI 2024, Best Paper) — Liwei Chan et al.
+  - Exemplifies: Solving a practical constraint (VR in small rooms, seated) that broadens who can use immersive locomotion at all.
+- **Touching the Moon: Leveraging Passive Haptics, Embodiment and Presence for Operational Assessments in Virtual Reality** (CHI 2024, Best Paper) — Florian Dufresne et al.
+  - Exemplifies: VR presence research applied to a high-stakes real domain (space operations), connecting embodiment theory to operational assessment.
+- **Traversing Dual Realities: Transitioning 3D Objects between Desktop and Augmented Reality Environments** (CHI 2025, Best Paper) — Tobias Rau et al.
+  - Exemplifies: Interaction techniques for the desktop-AR boundary — treating hybrid workflows, not pure immersion, as the realistic future.
+- **TelePulse: Enhancing the Teleoperation Experience through Biomechanical Simulation-Based Electrical Muscle Stimulation in VR** (CHI 2025, Best Paper) — Seokhyun Hwang et al.
+  - Exemplifies: Combining biomechanical simulation with EMS so remote forces are felt in the operator's body — multimodal fidelity for teleoperation.
+- **The Fidelity-based Presence Scale (FPS): Modeling the Effects of Fidelity on Sense of Presence** (CHI 2025, Best Paper) — Jacob Belga et al.
+  - Exemplifies: Contributing a validated measurement instrument to a construct (presence) the whole VR community depends on.
+- **PerEye: Co-Designing Extended Reality Rendering Attributes for Vision Health Diagnosis and Education** (CHI 2026, Best Paper) — Howe Yuan Zhu et al.
+  - Exemplifies: XR rendering co-designed for clinical ends (vision diagnosis and education) — immersive tech in service of health practice.
+- **Reacquainting with Everyday Urban Nature: Natural Soundscape Restoration with Personal Audio AR** (CHI 2026, Best Paper) — Yu Chen et al.
+  - Exemplifies: Audio AR for wellbeing in everyday urban life — immersive tech aimed at restoration rather than escapism.
+- **Scene2Hap: Generating Scene-Wide Haptics for VR from Scene Context with Multimodal LLMs** (CHI 2026, Best Paper) — Arata Jingu et al.
+  - Exemplifies: Using multimodal LLMs to author haptics automatically from scene semantics — generative AI lowering the cost of rich VR experiences.
+
+## 5. Fabrication, Tangibles & Hardware
+
+- **Project Jacquard: Interactive Digital Textiles at Scale** (CHI 2016, Best Paper) — Ivan Poupyrev et al.
+  - Exemplifies: Taking smart textiles from lab curiosity to manufacturable at industrial scale — HCI research engineered for real production lines.
+- **"I don't Want to Wear a Screen": Probing Perceptions of and Possibilities for Dynamic Displays on Clothing** (CHI 2016, Best Paper) — Laura Devendorf et al.
+  - Exemplifies: Probing what wearers actually want from dynamic clothing displays before building them — wearables research led by perception, not capability.
+- **RapID: A Framework for Fabricating Low-Latency Interactive Objects with RFID Tags** (CHI 2016, Best Paper) — Andrew Spielberg et al.
+  - Exemplifies: Removing a technical barrier (RFID latency) via probabilistic modeling so batteryless interactive objects become practical to prototype.
+- **Organic Primitives: Synthesis and Design of pH-Reactive Materials using Molecular I/O for Sensing, Actuation, and Interaction** (CHI 2017, Best Paper) — Viirj Kan et al.
+  - Exemplifies: Materials science as interaction design — molecules as input/output primitives, expanding what counts as an interface.
+- **Wall++: Room-Scale Interactive and Context-Aware Sensing** (CHI 2018, Best Paper) — Yang Zhang et al.
+  - Exemplifies: Turning ordinary walls into large-area sensors with conductive paint — ubiquitous computing through inexpensive, scalable fabrication.
+- **Project Zanzibar: A Portable and Flexible Tangible Interaction Platform** (CHI 2018, Best Paper) — Nicolas Villar et al.
+  - Exemplifies: A robust, portable tangible platform (flexible NFC sensing mat) that packages years of tangibles research into a deployable device.
+- **"Occupational Therapy is Making": Design Iteration and Digital Fabrication in Occupational Therapy** (CHI 2019, Best Paper) — Megan Hofmann et al.
+  - Exemplifies: Studying clinicians as makers — situating digital fabrication within occupational therapy practice and its iteration culture.
+- **Beyond the Prototype: Understanding the Challenge of Scaling Hardware Device Production** (CHI 2020, Best Paper) — Rushil Khurana & Steve Hodges.
+  - Exemplifies: Unpacking the prototype-to-production "valley of death" — knowledge the maker/hardware community needed but rarely writes down.
+- **Oh, Snap! A Fabrication Pipeline to Magnetically Connect Conventional and 3D-Printed Electronics** (CHI 2021, Best Paper) — Martin Schmitz et al.
+  - Exemplifies: An end-to-end pipeline contribution that makes printed interactive objects modular and reusable — pragmatic fabrication research.
+- **Coupling Simulation and Hardware for Interactive Circuit Debugging** (CHI 2021, Best Paper) — Evan Strasnick et al.
+  - Exemplifies: Bridging simulation and physical hardware so circuit debugging becomes interactive — tooling for the electronics prototyping bottleneck.
+- **Meander Coil++: A Body-scale Wireless Power Transmission Using Safe-to-body and Energy-efficient Transmitter Coil** (CHI 2022, Best Paper) — Ryo Takahashi et al. [Paper](https://doi.org/10.1145/3491102.3502119)
+  - Exemplifies: Serious electrical engineering (safe body-scale wireless power) presented as an enabler for whole categories of wearables.
+- **SAWSense: Using Surface Acoustic Waves for Surface-bound Event Recognition** (CHI 2023, Best Paper) — Yasha Iravantchi et al. [Paper](https://doi.org/10.1145/3544548.3580991)
+  - Exemplifies: A new sensing physics (surface acoustic waves) demonstrated across diverse applications with strong recognition results.
+- **Throwing Out Conventions: Reimagining Craft-Centered CNC Tool Design through the Digital Pottery Wheel** (CHI 2024, Best Paper) — Ilan E. Moyer et al.
+  - Exemplifies: Rethinking CNC machines around craft practice and skill, rather than forcing craft into CAD workflows.
+- **SketchPath: Using Digital Drawing to Integrate the Gestural Qualities of Craft in CAM-Based Clay 3D Printing** (CHI 2024, Best Paper) — Devon Frost et al.
+  - Exemplifies: Preserving the maker's gesture inside digital fabrication pipelines — craft qualities as first-class fabrication parameters.
+- **Enabling Recycling of Multi-Material 3D Printed Objects through Computational Design and Disassembly by Dissolution** (CHI 2025, Best Paper) — Xin Wen et al.
+  - Exemplifies: Sustainability engineered into fabrication itself — computational design for end-of-life disassembly, not just creation.
+- **LivingLoom: Investigating Human-Plant Symbiosis through Integrating Living Plants into (E-)Textiles** (CHI 2025, Best Paper) — Jingwen Zhu et al.
+  - Exemplifies: Biodesign meets e-textiles — weaving living organisms into fabric and studying care relations with what we wear.
+- **A Cantilevered DeltaXY Positioning Mechanism Enabling Rackable Digital Fabrication Form Factors** (CHI 2026, Best Paper) — Ilan E. Moyer et al.
+  - Exemplifies: Mechanism-level invention (a new positioning architecture) that changes what form factors fabrication machines can take.
+- **How are Vibrotactile Experiences Visually Represented? A Taxonomy of Illustration Characteristics** (CHI 2026, Best Paper) — Bruno Fruchard et al.
+  - Exemplifies: Building shared representational language for haptics — a taxonomy so designers can communicate tactile experience.
+- **Sound2Hap: Learning Audio-to-Vibrotactile Haptic Generation from Human Ratings** (CHI 2026, Best Paper) — Yinan Li & Hasti Seifi.
+  - Exemplifies: Learning haptic generation directly from human perceptual ratings — data-driven design of tactile output.
+- **Towards Fluent Interaction with Cyber-Physical Architecture** (CHI 2026, Best Paper) — Jesse T. Gonzalez et al.
+  - Exemplifies: Scaling shape-changing interfaces to architecture — buildings as interactive, actuated systems.
+- **Unit-Less Measurements with StoryStick++: Rethinking Measurement as Interactive Processes** (CHI 2026, Best Paper) — Stig Konings et al.
+  - Exemplifies: A tangible tool that reconceives measurement itself as embodied, relational process — philosophy of practice embedded in hardware.
+
+## 6. Social Computing & CSCW
+
+- **Finding Email in a Multi-Account, Multi-Device World** (CHI 2016, Best Paper) — Marta E. Cecchinato et al.
+  - Exemplifies: Careful field study of how communication practices fragment across accounts and devices — everyday work life taken seriously.
+- **Empath: Understanding Topic Signals in Large-Scale Text** (CHI 2016, Best Paper) — Ethan Fast et al.
+  - Exemplifies: A reusable computational tool for social-text analysis, validated against human judgment and released for the community.
+- **Flash Organizations: Crowdsourcing Complex Work by Structuring Crowds As Organizations** (CHI 2017, Best Paper) — Melissa A. Valentine et al.
+  - Exemplifies: Importing organizational theory into crowdsourcing so crowds can do complex, interdependent work — systems research with social-science depth.
+- **You Want Me to Work with Who? Stakeholder Perceptions of Automated Team Formation in Project-based Courses** (CHI 2017, Best Paper) — Farnaz Jahanbakhsh et al.
+  - Exemplifies: Studying algorithmic team formation from all stakeholders' perspectives — social consequences of automation in collaborative settings.
+- **From Her Story, to Our Story: Digital Storytelling as Public Engagement around Abortion Rights Advocacy in Ireland** (CHI 2018, Best Paper) — Lydia Michie et al.
+  - Exemplifies: Technology in live political struggle — digital storytelling for advocacy, studied with activists during a national campaign.
+- **Examining Wikipedia With a Broader Lens: Quantifying the Value of Wikipedia's Relationships with Other Large-Scale Online Communities** (CHI 2018, Best Paper) — Nicholas Vincent et al.
+  - Exemplifies: Quantifying inter-platform dependence (how much other platforms owe Wikipedia) — computational social science reframing platform value.
+- **"I feel it is my responsibility to stream": Streaming and Engaging with Intangible Cultural Heritage through Livestreaming** (CHI 2019, Best Paper) — Zhicong Lu et al.
+  - Exemplifies: Non-Western platform practices (Chinese livestreaming) analyzed on their own terms, connecting social computing to cultural preservation.
+- **Protection, Productivity and Pleasure in the Smart Home: Emerging Expectations and Gendered Insights from Australian Early Adopters** (CHI 2019, Best Paper) — Yolande Strengers et al.
+  - Exemplifies: Gender-attentive analysis of domestic technology adoption — who does the digital housekeeping in the smart home.
+- **Connecting Distributed Families: Camera Work for Three-party Mobile Video Calls** (CHI 2020, Best Paper) — Yumei Gan et al.
+  - Exemplifies: Fine-grained video analysis of how families physically accomplish connection over video — micro-interactional rigor in CSCW.
+- **What Do Hackathons Do? Understanding Participation in Hackathons Through Program Theory Analysis** (CHI 2021, Best Paper) — Jeanette Falk et al.
+  - Exemplifies: Program theory applied to a beloved format (hackathons) to test what they actually accomplish for participants.
+- **LGBTQ Persons' Pregnancy Loss Disclosures to Known Ties on Social Media** (CHI 2021, Best Paper) — Cassidy Pyle et al.
+  - Exemplifies: Disclosure theory advanced through an intersectional lens on a doubly stigmatized experience — sensitive, theoretically generative work.
+- **U!Scientist: Designing for People-Powered Research in Museums** (CHI 2021, Best Paper) — Mmachi God'sglory Obiorah et al.
+  - Exemplifies: Citizen science moved into physical public space (museum exhibits), designed and evaluated for collaborative participation.
+- **"Why lose control?" A Study of Freelancers' Perspectives with Gig Economy Platforms** (CHI 2021, Best Paper) — Juan Carlos Alvarez de la Vega et al.
+  - Exemplifies: Worker-centered study of platform-mediated labor, surfacing autonomy tensions that inform platform design and policy.
+- **Clandestino or Rifugiato? Anti-immigration Facebook Ad Targeting in Italy** (CHI 2021, Best Paper) — Arthur Capozzi et al.
+  - Exemplifies: Data-driven audit of political ad targeting on a major platform — computational methods exposing manipulation infrastructure.
+- **Designing for the Bittersweet: Improving Sensitive Experiences with Recommender Systems** (CHI 2022, Best Paper) — Caitlin Lustig et al. [Paper](https://doi.org/10.1145/3491102.3502049)
+  - Exemplifies: Confronting how recommenders resurface grief and trauma — emotional consequence as a first-class design requirement.
+- **EmoBalloon — Conveying Emotional Arousal in Text Chats with Speech Balloons** (CHI 2022, Best Paper) — Toshiki Aoki et al. [Paper](https://doi.org/10.1145/3491102.3501920)
+  - Exemplifies: A simple, deployable design intervention (generated speech-balloon shapes) tested experimentally for emotional communication in chat.
+- **Probing a Community-Based Conversational Storytelling Agent to Document Digital Stories of Housing Insecurity** (CHI 2023, Best Paper) — Brett A. Halperin et al. [Paper](https://doi.org/10.1145/3544548.3581109)
+  - Exemplifies: Conversational AI in community documentation of housing insecurity — civic storytelling with careful ethical footing.
+- **What Do We Mean When We Talk about Trust in Social Media? A Systematic Review** (CHI 2023, Best Paper) — Yixuan Zhang et al. [Paper](https://doi.org/10.1145/3544548.3581019)
+  - Exemplifies: Disciplining a sprawling construct (trust) through systematic review — conceptual clarity as a contribution.
+- **Time-Turner: A Bichronous Learning Environment to Support Positive In-class Multitasking of Online Learners** (CHI 2024, Best Paper) — Sahar Mavali et al.
+  - Exemplifies: Rethinking synchronous/asynchronous boundaries in online learning — designing with, not against, learner multitasking.
+- **Mitigating Barriers to Public Social Interaction with Meronymous Communication** (CHI 2024, Best Paper) — Nouran Soliman et al.
+  - Exemplifies: Inventing a new identity mechanism (partial, verified anonymity) and experimentally showing it unlocks participation.
+- **Debate Chatbots to Facilitate Critical Thinking on YouTube: Social Identity and Conversational Style Make A Difference** (CHI 2024, Best Paper) — Thitaree Tanprasert et al.
+  - Exemplifies: Chatbots deployed into a real attention ecosystem (YouTube comments) with controlled manipulation of identity and style.
+- **Tracing Change in Social Media Use: A Qualitative Longitudinal Study** (CHI 2025, Best Paper) — Beata Jungselius et al.
+  - Exemplifies: Longitudinal qualitative method revealing how social media practices evolve over years — time as the analytic lens.
+- **Relational AI: Facilitating Intergroup Cooperation with Socially Aware Conversational Support** (CHI 2025, Best Paper) — Elijah L. Claggett et al.
+  - Exemplifies: AI as social facilitator between conflicting groups — bridging social psychology and conversational systems.
+- **Placebo Effect of Control Settings in Feeds Are Not Always Strong** (CHI 2025, Best Paper) — Silas Hsu et al.
+  - Exemplifies: Experimental scrutiny of a widely believed folk claim (illusory feed controls), with nuanced results honestly reported.
+- **Characterizing Scam-Driven Human Trafficking Across Chinese Borders and Online Community Responses on RedNote** (CHI 2026, Best Paper) — Jiamin Zheng et al.
+  - Exemplifies: Investigating severe transnational online harm and grassroots community countermeasures — high-stakes, hard-to-study phenomena.
+- **Crafting Remembrance Beyond the Self: Older Adults' Digital and Material Legacies** (CHI 2026, Best Paper) — Ramprabu Thangaraj et al.
+  - Exemplifies: Digital legacy studied alongside material legacy with older adults — end-of-life data practices as social, not just technical.
+- **Friend, Foe, or Bot? Intergroup Dynamics in Hybrid Human-Bot Teams** (CHI 2026, Best Paper) — Assem Zhunis et al.
+  - Exemplifies: Classic intergroup psychology tested in teams that mix humans and bots — social identity theory updated for hybrid collectives.
+- **Narratives and Perspectives: How AI Summaries Steer Users' Opinions and Engagement on Social Media** (CHI 2026, Best Paper) — Jarod Govers et al.
+  - Exemplifies: Measuring how AI-generated summaries shape opinion — platform-level AI mediation as an empirical influence problem.
+- **The Words That Can't Be Shared: Exploring the Design of Unsent Messages** (CHI 2026, Best Paper) — Michael Yin & Robert Xiao.
+  - Exemplifies: Attending to communication that deliberately never happens (unsent messages) — a poetic, overlooked corner of CMC made designable.
+- **"Social Media Killed Our Generation": Teenagers' Felt Experiences of Harm on Social Media** (CHI 2026, Best Paper) — Ritika Gairola et al.
+  - Exemplifies: Teens' own accounts of harm, gathered rigorously, at the center of a policy-relevant debate usually conducted about them.
+- **"Families are messy": From Parent-Child Tensions to Family-Centered Design of Smart Home Technologies** (CHI 2026, Best Paper) — Kaiwen Sun et al.
+  - Exemplifies: Treating the family, with all its power asymmetries, as the unit of design for domestic technology.
+
+## 7. Human-AI Interaction & AI Ethics
+
+- **Addressing Age-Related Bias in Sentiment Analysis** (CHI 2018, Best Paper) — Mark Diaz et al.
+  - Exemplifies: Early empirical demonstration of an overlooked algorithmic bias (age) — expanding the fairness agenda beyond race and gender.
+- **Gender Recognition or Gender Reductionism? The Social Implications of Automatic Gender Recognition Systems** (CHI 2018, Best Paper) — Foad Hamidi et al.
+  - Exemplifies: Influential critique of a deployed AI capability's harms to trans people — HCI setting the ethical agenda for ML.
+- **Let's Talk About Race: Identity, Chatbots, and AI** (CHI 2018, Best Paper) — Ari Schlesinger et al.
+  - Exemplifies: Confronting how conversational AI handles race — connecting technical design choices to identity and erasure.
+- **Unremarkable AI: Fitting Intelligent Decision Support into Critical, Clinical Decision-Making Processes** (CHI 2019, Best Paper) — Qian Yang et al.
+  - Exemplifies: The "unremarkable computing" ideal applied to clinical AI — integration into workflow as the real design problem, not model accuracy.
+- **Geppetto: Enabling Semantic Design of Expressive Robot Behaviors** (CHI 2019, Best Paper) — Ruta Desai et al.
+  - Exemplifies: Simulation-driven tools that let non-experts author expressive robot behavior semantically — design tooling for embodied AI.
+- **Street-Level Algorithms: A Theory At The Gaps Between Policy and Decisions** (CHI 2019, Best Paper) — Ali Alkhatib & Michael Bernstein.
+  - Exemplifies: A portable theoretical lens (street-level bureaucrats vs. algorithms) explaining why algorithmic decisions fail at the margins.
+- **Mental Models of AI Agents in a Cooperative Game Setting** (CHI 2020, Best Paper) — Katy Ilonka Gero et al.
+  - Exemplifies: Empirically mapping the mental models people form of an AI teammate — foundational for explainability and trust design.
+- **Wrex: A Unified Programming-by-Example Interaction for Synthesizing Readable Code for Data Scientists** (CHI 2020, Best Paper) — Ian Drosos et al.
+  - Exemplifies: Program synthesis made trustworthy by generating readable, editable code — respecting professional users' need to verify.
+- **Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI** (CHI 2020, Best Paper) — Michael A. Madaio et al.
+  - Exemplifies: Moving AI fairness from principles to organizational practice via co-designed checklists with practitioners.
+- **"Everyone wants to do the model work, not the data work": Data Cascades in High-Stakes AI** (CHI 2021, Best Paper) — Nithya Sambasivan et al.
+  - Exemplifies: Naming a systemic failure mode (data cascades) with global fieldwork — a concept that reshaped how AI development is discussed.
+- **The Landscape and Gaps in Open Source Fairness Toolkits** (CHI 2021, Best Paper) — Michelle Seng Ah Lee & Jatinder Singh.
+  - Exemplifies: Systematic audit of the tools practitioners actually reach for, exposing the gap between fairness research and usable support.
+- **Designing Interactive Transfer Learning Tools for ML Non-Experts** (CHI 2021, Best Paper) — Swati Mishra & Jeffrey M. Rzeszotarski.
+  - Exemplifies: Interactive machine learning that meets non-experts where they are — democratizing model adaptation through interface design.
+- **Jury Learning: Integrating Dissenting Voices into Machine Learning Models** (CHI 2022, Best Paper) — Mitchell L. Gordon et al. [Paper](https://doi.org/10.1145/3491102.3502004)
+  - Exemplifies: A concrete technical mechanism for value pluralism — letting practitioners specify whose voices a classifier reflects.
+- **Neo: Generalizing Confusion Matrix Visualization to Hierarchical and Multi-Output Labels** (CHI 2022, Best Paper) — Jochen Görtler et al. [Paper](https://doi.org/10.1145/3491102.3501823)
+  - Exemplifies: Rethinking a ubiquitous ML artifact (the confusion matrix) so practitioners can actually debug modern models.
+- **Towards Relatable Explainable AI with the Perceptual Process** (CHI 2022, Best Paper) — Wencan Zhang & Brian Y. Lim. [Paper](https://doi.org/10.1145/3491102.3501826)
+  - Exemplifies: Grounding XAI in cognitive theory of human perception so explanations match how people actually reason.
+- **When Confidence Meets Accuracy: Exploring the Effects of Multiple Performance Indicators on Trust in Machine Learning Models** (CHI 2022, Best Paper) — Amy Rechkemmer & Ming Yin. [Paper](https://doi.org/10.1145/3491102.3501967)
+  - Exemplifies: Controlled experiments isolating how performance indicators shape trust calibration — the empirical core of human-AI trust research.
+- **Disentangling Fairness Perceptions in Algorithmic Decision-Making: the Effects of Explanations, Human Oversight, and Contestability** (CHI 2023, Best Paper) — Mireia Yurrita et al. [Paper](https://doi.org/10.1145/3544548.3581161)
+  - Exemplifies: Factorial rigor applied to fairness perceptions — separating which governance mechanisms actually move perceived fairness.
+- **Rethinking "Risk" in Algorithmic Systems Through A Computational Narrative Analysis of Casenotes in Child Welfare** (CHI 2023, Best Paper) — Devansh Saxena et al. [Paper](https://doi.org/10.1145/3544548.3581308)
+  - Exemplifies: Using street-level records to show what algorithmic "risk" misses — methodological innovation in public-sector AI critique.
+- **Understanding Frontline Workers' and Unhoused Individuals' Perspectives on AI Used in Homeless Services** (CHI 2023, Best Paper) — Tzu-Sheng Kuo et al. [Paper](https://doi.org/10.1145/3544548.3580882)
+  - Exemplifies: Bringing affected communities — including unhoused people themselves — into deliberation about a deployed allocation algorithm.
+- **Understanding the Benefits and Challenges of Deploying Conversational AI Leveraging Large Language Models for Public Health Intervention** (CHI 2023, Best Paper) — Eunkyung Jo et al. [Paper](https://doi.org/10.1145/3544548.3581503)
+  - Exemplifies: One of the first real-world LLM deployment studies (public-health check-in calls), balancing observed benefits against risks.
+- **Sensible and Sensitive AI for Worker Wellbeing: Factors that Inform Adoption and Resistance for Information Workers** (CHI 2024, Best Paper) — Vedant Das Swain et al.
+  - Exemplifies: Workplace AI studied from the monitored workers' side — adoption and resistance as rational responses to sensing.
+- **From Text to Self: Users' Perception of AIMC Tools on Interpersonal Communication and Self** (CHI 2024, Best Paper) — Yue Fu et al.
+  - Exemplifies: Probing what AI-mediated communication does to authenticity and self-presentation — the relational costs of delegated words.
+- **Products of Positionality: How Tech Workers Shape Identity Concepts in Computer Vision** (CHI 2024, Best Paper) — Morgan Klaus Scheuerman & Jed R. Brubaker.
+  - Exemplifies: Tracing how workers' own positionality gets baked into CV identity categories — production studies of AI as ethics research.
+- **Generative Echo Chamber? Effect of LLM-Powered Search Systems on Diverse Information Seeking** (CHI 2024, Best Paper) — Nikhil Sharma et al.
+  - Exemplifies: Controlled experiments on how conversational search reshapes information diversity — timely, mechanism-focused evidence on LLM harms.
+- **The Metacognitive Demands and Opportunities of Generative AI** (CHI 2024, Best Paper) — Lev Tankelevitch et al.
+  - Exemplifies: A theoretical account (metacognition) that explains scattered GenAI usability findings and generates design implications.
+- **JupyterLab in Retrograde: Contextual Notifications That Highlight Fairness and Bias Issues for Data Scientists** (CHI 2024, Best Paper) — Galen Harrison et al.
+  - Exemplifies: Fairness support delivered inside the data scientist's actual tool at the moment of decision — ethics as ambient tooling.
+- **Creative Writers' Attitudes on Writing as Training Data for Large Language Models** (CHI 2025, Best Paper) — Katy Ilonka Gero et al.
+  - Exemplifies: Centering the people whose labor trains AI — consent, credit, and compensation as HCI questions.
+- **Supporting Co-Adaptive Machine Teaching through Human Concept Learning and Cognitive Theories** (CHI 2025, Best Paper) — Simret Araya Gebreegziabher et al.
+  - Exemplifies: Machine teaching designed from cognitive theory of how humans form concepts — bidirectional adaptation between teacher and model.
+- **PAIGE: Examining Learning Outcomes and Experiences with Personalized AI-Generated Educational Podcasts** (CHI 2025, Best Paper) — Tiffany D. Do et al.
+  - Exemplifies: Generative AI evaluated against real learning outcomes, not just engagement — education claims held to evidence.
+- **Conversational Agents on Your Behalf: Shared Autonomy in Voice Communication for Multitasking** (CHI 2025, Best Paper) — Yi Fei Cheng et al.
+  - Exemplifies: Shared autonomy applied to everyday voice communication — agents speaking for us, with control negotiated by design.
+- **The Benefits of Prosociality towards AI Agents: Effects of Helping AI Agents on Human Well-Being** (CHI 2025, Best Paper) — Zicheng Zhu et al.
+  - Exemplifies: Reversing the usual question — what humans gain from helping AI — with experimental wellbeing evidence.
+- **Prototyping with Prompts: Generative AI Design for Collaborative Software Teams** (CHI 2025, Best Paper) — Hariharan Subramonyam et al.
+  - Exemplifies: Documenting how prompts become the new design material inside software teams — practice-grounded GenAI process research.
+- **"Don't Forget the Teachers": Towards an Educator-Centered Understanding of Harms from LLMs in Education** (CHI 2025, Best Paper) — Emma Harvey et al.
+  - Exemplifies: Centering educators, not just students, in accounts of educational LLM harms — stakeholder completeness in harm analysis.
+- **Letters from Future Self: Augmenting the Letter-Exchange Exercise with LLM-based Agents for Career Exploration** (CHI 2025, Best Paper) — Hayeon Jeon et al.
+  - Exemplifies: LLM agents embedded in a validated psychological exercise (future-self letters) — augmenting, not replacing, an intervention with evidence behind it.
+- **Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection** (CHI 2025, Best Paper) — Pat Pataranutaporn et al.
+  - Exemplifies: Experimental demonstration of a novel cognitive harm from generative media — memory distortion — ahead of public awareness.
+- **Code Shaping: Iterative Code Editing with Free-form AI-Interpreted Sketching** (CHI 2025, Best Paper) — Ryan Yen et al.
+  - Exemplifies: A genuinely new interaction paradigm for AI programming (sketching on code), iterated through studies rather than demo-ware.
+- **AI Sensing and Intervention in Higher Education: Student Perceptions** (CHI 2026, Best Paper) — Bingyi Han et al.
+  - Exemplifies: Asking the sensed (students) how they experience campus AI monitoring — consent and legitimacy in institutional AI.
+- **CoBRA: Programming Cognitive Bias in Social Agents Using Classic Social Science Experiments** (CHI 2026, Best Paper) — Xuan Liu et al.
+  - Exemplifies: Using classic social-science experiments as a programming interface for agent behavior — rigor imported into social simulation.
+- **Cocoa: Co-Planning and Co-Execution with AI Agents** (CHI 2026, Best Paper) — K. J. Kevin Feng et al.
+  - Exemplifies: Interaction design for the agent era — shared plans as the coordination substrate between humans and autonomous AI.
+- **From Overload to Convergence: Supporting Multi-Issue Human-AI Negotiation with Bayesian Visualization** (CHI 2026, Best Paper) — Mehul Parmar & Chaklam Silpasuwanchai.
+  - Exemplifies: Visualization scaffolding complex human-AI negotiation — decision support where both parties reason under uncertainty.
+- **Interactive Explainable Ranking** (CHI 2026, Best Paper) — Chao Zhang & Abe Davis.
+  - Exemplifies: Making ranking algorithms explorable and contestable through interaction — XAI as a two-way interface, not a static report.
+- **Novobo: Supporting Teachers' Peer Learning of Instructional Gestures by Teaching a Mentee AI-Agent Together** (CHI 2026, Best Paper) — Jiaqi Jiang et al.
+  - Exemplifies: Learning-by-teaching flipped onto AI — teachers improving their own practice by jointly instructing an agent.
+- **PleaSQLarify: Visual Pragmatic Repair for Natural Language Database Querying** (CHI 2026, Best Paper) — Robin Shing Moon Chan et al.
+  - Exemplifies: Treating NL-to-SQL failure as a conversational repair problem with visual grounding — robustness through interaction design.
+- **RAG Without the Lag: Enabling "What-If" Analysis for Retrieval-Augmented Generation Pipelines** (CHI 2026, Best Paper) — Quentin Romero Lauro et al.
+  - Exemplifies: Developer tooling for AI pipelines — interactive what-if analysis bringing HCI sensibilities to RAG engineering.
+- **Sensemaking in User-Driven Algorithm Auditing: Gender Bias in an Image Captioning Model** (CHI 2026, Best Paper) — Behnoosh Mohammadzadeh et al.
+  - Exemplifies: Everyday users as algorithm auditors — studying how non-experts collectively make sense of model bias.
+- **Small Talk, Big Impact? LLM-based Conversational Agents to Mitigate Passive Fatigue in Conditional Automated Driving** (CHI 2026, Best Paper) — Lewis Cockram et al.
+  - Exemplifies: LLM conversation applied to a safety-critical human-factors problem (driver fatigue in automation) with experimental evidence.
+- **When Scaffolding Breaks: Student Interaction with LLM-Based Writing Support in Real-Time K-12 EFL Classrooms** (CHI 2026, Best Paper) — Junho Myung et al.
+  - Exemplifies: LLM tutoring observed failing in real classrooms — deployment honesty about where AI scaffolding collapses.
+- **Who Controls the Conversation? User Perspectives On Generative AI (LLM) System Prompts** (CHI 2026, Best Paper) — Anna Neumann et al.
+  - Exemplifies: Making the invisible layer of system prompts a user-facing transparency issue — power over AI conversations as a design question.
+- **Writing with AI Can Reduce Gender Bias in Hiring Evaluations** (CHI 2026, Best Paper) — Alicia T. H. Liu et al.
+  - Exemplifies: Careful experiments showing AI assistance can reduce (not just amplify) human bias — evidence over assumption in both directions.
+- **"I Don't Think RAI Applies to My Model" – Engaging Non-champions with Sticky Stories for Responsible AI Work** (CHI 2026, Best Paper) — Nadia Nahar et al.
+  - Exemplifies: Responsible-AI adoption treated as an organizational persuasion problem — reaching the engineers who think ethics isn't for them.
+
+## 8. Privacy, Security & Trust
+
+- **Dear Diary: Teens Reflect on Their Weekly Online Risk Experiences** (CHI 2016, Best Paper) — Pamela J. Wisniewski et al.
+  - Exemplifies: Diary-based evidence that recalibrated moral panic about teen online risk — resilience, not just exposure.
+- **Stories from Survivors: Privacy & Security Practices when Coping with Intimate Partner Abuse** (CHI 2017, Best Paper) — Tara Matthews et al.
+  - Exemplifies: Foundational threat-model work for IPV survivors — showing standard security assumptions fail when the adversary shares your home.
+- **Design and Evaluation of a Data-Driven Password Meter** (CHI 2017, Best Paper) — Blase Ur et al.
+  - Exemplifies: Usable security done end-to-end: data-driven feedback design, large-scale experiments, and an artifact adopted in practice.
+- **Keeping a Low Profile? Technology, Risk and Privacy among Undocumented Immigrants** (CHI 2018, Best Paper) — Tamy Guberek et al.
+  - Exemplifies: Privacy studied under existential stakes — how undocumented immigrants navigate visibility, informing marginalized-user threat models.
+- **"A Stalker's Paradise": How Intimate Partner Abusers Exploit Technology** (CHI 2018, Best Paper) — Diana Freed et al.
+  - Exemplifies: Documenting the abuser's-eye view of consumer tech — dual-use analysis that spawned an entire research and clinical program.
+- **Risk vs. Restriction: The Tension between Providing a Sense of Normalcy and Keeping Foster Teens Safe Online** (CHI 2019, Best Paper) — Karla Badillo-Urquiola et al.
+  - Exemplifies: Safety design for a system-involved population (foster care), balancing protection against developmental normalcy.
+- **"Think secure from the beginning": A Survey with Software Developers** (CHI 2019, Best Paper) — Hala Assal & Sonia Chiasson.
+  - Exemplifies: Developers as the human factor in security — surveying how security actually fits (or fails to fit) into software work.
+- **"They don't leave us alone anywhere we go": Gender and Digital Abuse in South Asia** (CHI 2019, Best Paper) — Nithya Sambasivan et al.
+  - Exemplifies: Cross-country evidence of gendered abuse in the Global South, forcing safety features to reckon with non-Western contexts.
+- **Bug or Feature? Covert Impairments to Human Computer Interaction** (CHI 2020, Best Paper) — John V. Monaco.
+  - Exemplifies: A novel adversarial lens — systems that covertly degrade interaction — bridging security thinking and interaction research.
+- **Building for 'We': Safety Settings for Couples with Memory Concerns** (CHI 2021, Best Paper) — Nora McDonald & Helena M. Mentis.
+  - Exemplifies: Rethinking security's individualistic account model for cognitively interdependent couples — safety as a joint practice.
+- **Care Infrastructures for Digital Security in Intimate Partner Violence** (CHI 2022, Best Paper) — Emily Tseng et al. [Paper](https://doi.org/10.1145/3491102.3502038)
+  - Exemplifies: Turning research into service — clinic-style security support for survivors, theorized as infrastructure of care.
+- **Still Creepy After All These Years: The Normalization of Affective Discomfort in App Use** (CHI 2022, Best Paper) — John S. Seberger et al. [Paper](https://doi.org/10.1145/3491102.3502112)
+  - Exemplifies: Tracking how privacy "creepiness" gets normalized over time — affect as a lens on resignation to surveillance.
+- **Zoom Obscura: Counterfunctional Design for Video-Conferencing** (CHI 2022, Best Paper) — Chris Elsden et al. [Paper](https://doi.org/10.1145/3491102.3501973)
+  - Exemplifies: Counterfunctional artist-led interventions reclaiming control over video-call visibility — critical design as privacy practice.
+- **Deceptive Design Patterns in Safety Technologies: A Case Study of the Citizen App** (CHI 2023, Best Paper) — Ishita Chordia et al. [Paper](https://doi.org/10.1145/3544548.3581258)
+  - Exemplifies: Dark-patterns analysis applied to fear-driven safety apps — showing how "safety" products can manufacture insecurity.
+- **FIDO2 the Rescue? Platform vs. Roaming Authentication on Smartphones** (CHI 2023, Best Paper) — Leon Würsching et al. [Paper](https://doi.org/10.1145/3544548.3580993)
+  - Exemplifies: Usability evidence at the moment a security standard (passkeys) goes mainstream — research timed to shape deployment.
+- **Paying the Price: When Intimate Partners Use Technology for Financial Harm** (CHI 2023, Best Paper) — Rosanna Bellini. [Paper](https://doi.org/10.1145/3544548.3581101)
+  - Exemplifies: Extending technology-abuse research into financial systems — a previously invisible harm surface made studyable.
+- **The Nuanced Nature of Trust and Privacy Control Adoption in the Context of Google** (CHI 2023, Best Paper) — Ehsan Ul Haque et al. [Paper](https://doi.org/10.1145/3544548.3581387)
+  - Exemplifies: Unpacking why people who distrust a platform still don't use its privacy controls — trust as a nuanced, layered construct.
+- **'Treat me as your friend, not a number in your database': Co-designing with Children to Cope with Datafication Online** (CHI 2023, Best Paper) — Ge Wang et al. [Paper](https://doi.org/10.1145/3544548.3580933)
+  - Exemplifies: Children co-designing responses to their own datafication — giving the youngest data subjects design agency.
+- **Deepfakes, Phrenology, Surveillance, and More! A Taxonomy of AI Privacy Risks** (CHI 2024, Best Paper) — Hao-Ping (Hank) Lee et al.
+  - Exemplifies: A systematic taxonomy connecting AI capabilities to concrete privacy harms — reference-work rigor the field can build on.
+- **'We Do Not Have the Capacity to Monitor All Media': A Design Case Study on Cyber Situational Awareness in Computer Emergency Response Teams** (CHI 2024, Best Paper) — Marc-André Kaufhold et al.
+  - Exemplifies: Design case study inside real CERTs — security operations as cooperative work with concrete tooling consequences.
+- **Permission Rationales in the Web Ecosystem: An Exploration of Rationale Text and Design Patterns** (CHI 2025, Best Paper) — Yusra Elbitar et al.
+  - Exemplifies: Large-scale measurement of how the web actually asks for permissions — empirical grounding for consent-design policy.
+- **From Awareness to Action: The Effects of Experiential Learning on Educating Users about Dark Patterns** (CHI 2025, Best Paper) — Jingzhou Ye et al.
+  - Exemplifies: Testing whether users can be inoculated against manipulative design — intervention research on digital literacy.
+- **Trauma-Informed Digital Evidence Collection: Evidence Practices for Technology-Facilitated Abuse in Intimate Partner Violence** (CHI 2026, Best Paper) — Sophie Stephenson et al.
+  - Exemplifies: Bringing trauma-informed principles to forensic evidence workflows — safety research spanning technical, legal, and emotional needs.
+
+## 9. Design Methods, Theory & Critical HCI
+
+- **Momentary Pleasure or Lasting Meaning? Distinguishing Eudaimonic and Hedonic User Experiences** (CHI 2016, Best Paper) — Elisa D. Mekler & Kasper Hornbæk.
+  - Exemplifies: Importing a well-established psychology distinction to sharpen UX theory, with empirical differentiation of the constructs.
+- **HCI Research as Problem-Solving** (CHI 2016, Best Paper) — Antti Oulasvirta & Kasper Hornbæk.
+  - Exemplifies: A meta-scientific account of what makes HCI research good — problem-solving capacity — that gave the field shared evaluative language.
+- **Kinecting with Orangutans: Zoo Visitors' Empathetic Responses to Animals' Use of Interactive Technology** (CHI 2017, Best Paper) — Sarah Webber et al.
+  - Exemplifies: Expanding HCI's subject beyond humans — animal-computer interaction studied for its effects on human empathy and conservation attitudes.
+- **What Is Interaction?** (CHI 2017, Best Paper) — Kasper Hornbæk & Antti Oulasvirta.
+  - Exemplifies: Foundational conceptual work interrogating the field's central term, organizing competing concepts of interaction into usable form.
+- **Reflective Practicum: A Framework of Sensitising Concepts to Design for Transformative Reflection** (CHI 2017, Best Paper) — Petr Slovák et al.
+  - Exemplifies: Translating learning-sciences theory into sensitizing concepts designers can actually use for reflection-supporting technology.
+- **Making Core Memory: Design Inquiry into Gendered Legacies of Engineering and Craftwork** (CHI 2018, Best Paper) — Daniela K. Rosner et al.
+  - Exemplifies: Design inquiry as historiography — recovering women's craftwork in computing history through making, exemplary feminist HCI.
+- **Investigating Slowness as a Frame to Design Longer-Term Experiences with Personal Data: A Field Study of Olly** (CHI 2019, Best Paper) — William Odom et al.
+  - Exemplifies: Slow technology tested through a long-term field deployment of a research artifact — patience as method and as design value.
+- **A Framework for the Experience of Meaning in Human-Computer Interaction** (CHI 2019, Best Paper) — Elisa D. Mekler & Kasper Hornbæk.
+  - Exemplifies: Theory-building that decomposes a fuzzy ideal (meaning) into workable components for design and evaluation.
+- **Managerial Visions: Stories of upgrading and maintaining the public restroom with IoT** (CHI 2019, Best Paper) — Sarah Fox et al.
+  - Exemplifies: Critical attention to maintenance, labor, and management logics behind "smart" upgrades of mundane public infrastructure.
+- **Critical Race Theory for HCI** (CHI 2020, Best Paper) — Ihudiya Finda Ogbonnaya-Ogburu et al.
+  - Exemplifies: Introducing an entire critical tradition into HCI with concrete analytic commitments — field-changing conceptual work.
+- **Touching and Being in Touch with the Menstruating Body** (CHI 2020, Best Paper) — Nadia Campo Woytuk et al.
+  - Exemplifies: Soma design and feminist theory jointly applied to bodily experience — first-person methods producing transferable design qualities.
+- **ReFind: Design, Lived Experience and Ongoingness in Bereavement** (CHI 2020, Best Paper) — Jayne Wallace et al.
+  - Exemplifies: Jewelry-like research artifacts designed with the bereaved — design for continuing bonds rather than closure.
+- **On Being Iterated: The Affective Demands of Design Participation** (CHI 2020, Best Paper) — Paul Dourish et al.
+  - Exemplifies: Turning the critical lens on participation itself — what iteration emotionally costs the people being designed with.
+- **Getting Ourselves Together: Epistemic Burden and Data-centered Participatory Design Research** (CHI 2021, Best Paper) — Jennifer Pierre et al.
+  - Exemplifies: Naming the epistemic burden participatory methods place on marginalized communities — self-critical methods scholarship.
+- **Resisting the Medicalisation of Menopause: Reclaiming the Body through Design** (CHI 2021, Best Paper) — Marianela Ciolfi Felice et al.
+  - Exemplifies: Design research as resistance to dominant (medical) framings of a life stage — critical stance yielding alternative design programs.
+- **Interrupting Merit, Subverting Legibility: Navigating Caste In 'Casteless' Worlds of Computing** (CHI 2022, Best Paper) — Palashi Vaghela et al. [Paper](https://doi.org/10.1145/3491102.3502059)
+  - Exemplifies: Making caste visible in computing cultures that claim castelessness — expanding critical HCI's account of identity and power.
+- **Weaving Stories: Toward Repertoires for Designing Things** (CHI 2022, Best Paper) — Doenja Oogjes & Ron Wakkary. [Paper](https://doi.org/10.1145/3491102.3501901)
+  - Exemplifies: Articulating design repertoires from research-through-design practice — intermediate-level knowledge between theory and instance.
+- **Contestable Camera Cars: A Speculative Design Exploration of Public AI That Is Open and Responsive to Dispute** (CHI 2023, Best Paper) — Kars Alfrink et al. [Paper](https://doi.org/10.1145/3544548.3580984)
+  - Exemplifies: Speculative design used to concretize an abstract governance ideal (contestability) for public-sector AI.
+- **Kaleidoscope: A Reflective Documentation Tool for a User Interface Design Course** (CHI 2023, Best Paper) — Sarah Sterman et al. [Paper](https://doi.org/10.1145/3544548.3581255)
+  - Exemplifies: Tooling for design process itself — supporting reflective documentation as a designable, teachable practice.
+- **Designing a Card-Based Design Tool to Bridge Academic Research & Design Practice For Societal Resilience** (CHI 2024, Best Paper) — Novia Nurain et al.
+  - Exemplifies: Translational design methods — packaging research knowledge into card tools practitioners can wield for societal challenges.
+- **Designing Multispecies Worlds for Robots, Cats, and Humans** (CHI 2024, Best Paper) — Eike Schneiders et al.
+  - Exemplifies: More-than-human design taken seriously in a long-term home deployment where cats are genuine stakeholders.
+- **What Counts as 'Creative' Work? Articulating Four Epistemic Positions in Creativity-Oriented HCI Research** (CHI 2024, Best Paper) — Stacy Hsueh et al.
+  - Exemplifies: Meta-level mapping of a subfield's hidden assumptions — clarifying why creativity research talks past itself.
+- **How Should We Design Technology With Diverse Stakeholders Who Wish Not to Attend Design Activities Together?** (CHI 2025, Best Paper) — Obinna Ogbonnia Otuu et al.
+  - Exemplifies: Confronting a real participatory-design dilemma (stakeholders in conflict) with concrete methodological adaptation.
+- **Designing Urban Noticing Probes for Community Animals and Cohabitation in Türkiye** (CHI 2025, Best Paper) — Sena Cucumak & Özge Subasi.
+  - Exemplifies: Probes for noticing multispecies urban cohabitation — design research decentering the human in city life.
+- **Doing the Feminist Work in AI: Reflections from an AI Project in Latin America** (CHI 2025, Best Paper) — Marianela Ciolfi Felice et al.
+  - Exemplifies: Honest reflexive account of enacting feminist commitments inside a real AI project — practice-based critical scholarship.
+- **Becoming Watchful on the Trail and at Home: Experiential Outcomes of Capra in Long-Term Use** (CHI 2026, Best Paper) — William Odom et al.
+  - Exemplifies: Multi-year living-with studies of research artifacts — the slow, longitudinal core of research-through-design.
+
+## 10. User Studies, Measurement & Research Methods
+
+- **The Effect of Visual Appearance on the Performance of Continuous Sliders and Visual Analogue Scales** (CHI 2016, Best Paper) — Justin Matejka et al.
+  - Exemplifies: Meticulous experimental work on a ubiquitous measurement instrument (sliders) — small object, field-wide consequences.
+- **Developing and Validating the User Burden Scale: A Tool for Assessing User Burden in Computing Systems** (CHI 2016, Best Paper) — Hyewon Suh et al.
+  - Exemplifies: Proper psychometric scale development contributed to HCI — a validated instrument others can reuse.
+- **Foraging Among an Overabundance of Similar Variants** (CHI 2016, Best Paper) — Sruti Srinivasa Ragavan et al.
+  - Exemplifies: Information-foraging theory extended to explain a real observed behavior (navigating near-identical code variants).
+- **Understanding Public Evaluation: Quantifying Experimenter Intervention** (CHI 2017, Best Paper) — Julie R. Williamson & John Williamson.
+  - Exemplifies: Turning the lens on our own methods — quantifying how experimenter presence contaminates public deployments.
+- **Explaining the Gap: Visualizing One's Predictions Improves Recall and Comprehension of Data** (CHI 2017, Best Paper) — Yea-Seul Kim et al.
+  - Exemplifies: Elegant experiments showing that eliciting predictions before showing data improves comprehension — cognitively grounded visualization research.
+- **What Can Be Predicted from Six Seconds of Driver Glances?** (CHI 2017, Best Paper) — Lex Fridman et al.
+  - Exemplifies: Large-scale naturalistic driving data mined to establish what brief glance patterns reveal — measurement science for attention.
+- **How Relevant are Incidental Power Poses for HCI?** (CHI 2018, Best Paper) — Yvonne Jansen & Kasper Hornbæk.
+  - Exemplifies: Rigorous replication work testing an imported psychology effect before HCI builds on it — the replication crisis taken seriously.
+- **Semi-Automated Coding for Qualitative Research: A User-Centered Inquiry and Initial Prototypes** (CHI 2018, Best Paper) — Megh Marathe & Kentaro Toyama.
+  - Exemplifies: Asking qualitative researchers what automation they would actually trust — method tooling designed from epistemic values.
+- **HARK No More: On the Preregistration of CHI Experiments** (CHI 2018, Best Paper) — Andy Cockburn et al.
+  - Exemplifies: Bringing the replication-crisis reckoning to CHI — a disciplinary argument for preregistration that changed community norms.
+- **Hoarding and Minimalism: Tendencies in Digital Data Preservation** (CHI 2018, Best Paper) — Francesco Vitale et al.
+  - Exemplifies: Characterizing user archetypes (hoarders to minimalists) through qualitative study — durable concepts for personal data management.
+- **Anchored Audio Sampling: A Seamless Method for Exploring Children's Thoughts During Deployment Studies** (CHI 2019, Best Paper) — Alexis Hiniker et al.
+  - Exemplifies: A novel data-collection method fitted to a hard-to-study population (young children in deployments).
+- **Increasing the Transparency of Research Papers with Explorable Multiverse Analyses** (CHI 2019, Best Paper) — Pierre Dragicevic et al.
+  - Exemplifies: Interactive papers exposing analytic multiverses — simultaneously a statistics reform argument and an interaction-design contribution.
+- **Touchstone2: An Interactive Environment for Exploring Trade-offs in HCI Experiment Design** (CHI 2019, Best Paper) — Alexander Eiselmayer et al.
+  - Exemplifies: Tooling that makes experiment-design trade-offs (power, counterbalancing) tangible — methods support as interactive system.
+- **A Translational Science Model for HCI** (CHI 2019, Best Paper) — Lucas Franco Colusso et al.
+  - Exemplifies: Modeling how HCI research does (or does not) reach practice — a framework for the field's impact pipeline.
+- **Detecting Personality Traits Using Eye-Tracking Data** (CHI 2019, Best Paper) — Shlomo Berkovsky et al.
+  - Exemplifies: Signal-processing rigor establishing what psychological constructs behavioral sensors can measure.
+- **Data is Personal: Attitudes and Perceptions of Data Visualization in Rural Pennsylvania** (CHI 2019, Best Paper) — Evan Peck et al.
+  - Exemplifies: Challenging visualization's implicit urban, educated default user — whose data literacy do our charts assume?
+- **Transparency of CHI Research Artifacts: Results of a Self-Reported Survey** (CHI 2020, Best Paper) — Chat Wacharamanotham et al.
+  - Exemplifies: Empirical self-audit of the community's open-science practices, with concrete recommendations for artifact sharing.
+- **Articulating Experience: Reflections from Experts Applying Micro-Phenomenology to Design Research in HCI** (CHI 2020, Best Paper) — Mirjana Prpa et al.
+  - Exemplifies: Importing and adapting a rigorous first-person method (micro-phenomenology) for experience-centered design research.
+- **Design Study "Lite" Methodology: Expediting Design Studies and Enabling the Synergy of Visualization Pedagogy and Social Good** (CHI 2020, Best Paper) — Uzma Haque Syeda et al.
+  - Exemplifies: Adapting a heavyweight method (design studies) for classroom and social-good timescales without losing rigor.
+- **The Show Must Go On: A conceptual model of conducting synchronous participatory design with children online** (CHI 2021, Best Paper) — Kung Jin Lee et al.
+  - Exemplifies: Methodological adaptation under constraint (pandemic-era remote co-design with children), formalized as a reusable model.
+- **Heuristic Evaluation of Conversational Agents** (CHI 2021, Best Paper) — Raina Langevin et al.
+  - Exemplifies: Updating a classic method (heuristic evaluation) for a new interface class, with validation of the new heuristics.
+- **Investigating the Tradeoffs of Everyday Text-Entry Collection Methods** (CHI 2022, Best Paper) — André Rodrigues et al. [Paper](https://doi.org/10.1145/3491102.3501908)
+  - Exemplifies: Methodological calibration — quantifying what different in-the-wild data collection choices do to text-entry findings.
+- **Mobile-Friendly Content Design for MOOCs: Challenges, Requirements, and Design Opportunities** (CHI 2022, Best Paper) — Jeongyeon Kim et al. [Paper](https://doi.org/10.1145/3491102.3502054)
+  - Exemplifies: Systematic formative study translating a real constraint (learning on phones) into concrete content-design requirements.
+- **Breaking Out of the Ivory Tower: A Large-scale Analysis of Patent Citations to HCI Research** (CHI 2023, Best Paper) — Hancheng Cao et al. [Paper](https://doi.org/10.1145/3544548.3581108)
+  - Exemplifies: Scientometric evidence of HCI's industrial impact — the field studying its own translation with large-scale data.
+- **Changes in Research Ethics, Openness, and Transparency in Empirical Studies between CHI 2017 and CHI 2022** (CHI 2023, Best Paper) — Kavous Salehzadeh Niksirat et al. [Paper](https://doi.org/10.1145/3544548.3580848)
+  - Exemplifies: Longitudinal audit of the field's own ethical and open-science trajectory — accountability research about CHI itself.
+- **Evaluating Large Language Models in Generating Synthetic HCI Research Data: a Case Study** (CHI 2023, Best Paper) — Perttu Hämäläinen et al. [Paper](https://doi.org/10.1145/3544548.3580688)
+  - Exemplifies: Early, balanced assessment of LLMs as synthetic participants — mapping promise and peril for research validity.
+- **Who Do We Mean When We Talk About Visualization Novices?** (CHI 2023, Best Paper) — Alyxander Burns et al. [Paper](https://doi.org/10.1145/3544548.3581524)
+  - Exemplifies: Interrogating a load-bearing but undefined term ("novice") across a literature — definitional hygiene as contribution.
+- **In Dice We Trust: Uncertainty Displays for Maintaining Trust in Election Forecasts Over Time** (CHI 2024, Best Paper) — Fumeng Yang et al.
+  - Exemplifies: Uncertainty visualization evaluated on the outcome that matters (longitudinal trust), in a politically consequential domain.
+- **rTisane: Externalizing conceptual models for data analysis increases engagement with domain knowledge and improves statistical model quality** (CHI 2024, Best Paper) — Eunice Jun et al.
+  - Exemplifies: Tools that make analysts articulate assumptions — interactive systems improving statistical practice itself.
+- **A Qualitative Study on How Usable Security and HCI Researchers Judge the Size and Importance of Odds Ratio and Cohen's d Effect Sizes** (CHI 2025, Best Paper) — Anna-Marie Ortloff et al.
+  - Exemplifies: Studying how researchers themselves (mis)interpret effect sizes — metascience that targets reviewer and author judgment.
+- **Triangulating on Possible Futures: Conducting User Studies on Several Futures Instead of Only One** (CHI 2025, Best Paper) — Antti Salovaara & Leevi Vahvelainen.
+  - Exemplifies: A methodological fix for futures research — triangulating across multiple scenarios to de-bias speculative user studies.
+- **What Do We Design for When We Design "Smart Buildings"? A Scoping Review** (CHI 2025, Best Paper) — Shruti Rao et al.
+  - Exemplifies: A scoping review that exposes what a buzzword actually covers — mapping assumptions across a scattered literature.
+- **Lost in Magnitudes: Exploring Visualization Designs for Large Value Ranges** (CHI 2025, Best Paper) — Katerina Batziakoudi et al.
+  - Exemplifies: Systematic design-space exploration plus empirical testing for a stubborn perceptual problem (orders-of-magnitude data).
+- **Evaluating In-Car Tasks' Distraction Effects with Drive-In Lab** (CHI 2025, Best Paper) — Tuomo Kujala & Abhishek Sarkar.
+  - Exemplifies: A hybrid evaluation apparatus (drive-in lab) balancing ecological validity and control for automotive distraction research.
+- **Moving Beyond the Simulator: Interaction-Based Drunk Driving Detection in a Real Vehicle** (CHI 2025, Best Paper) — Robin Deuber et al.
+  - Exemplifies: Moving a safety-critical detection claim from simulator to real vehicle — validity escalation as the contribution.
+- **Chasing Meaning and/or Insight? Evaluation Practices at the Intersection of Visualization and the Humanities** (CHI 2026, Best Paper) — Alejandro Benito-Santos et al.
+  - Exemplifies: Reconciling two fields' incompatible standards of evidence (visualization vs. humanities) at their intersection.
+- **Do Children Trust AI, and Should They? A Child-Centred K-AI Trust Scale** (CHI 2026, Best Paper) — Grazia Ragone et al.
+  - Exemplifies: Instrument development for a new construct (children's AI trust), combining developmental sensitivity with psychometric rigor.
+- **Starting From Scratch Again and Again: Origins of High Schoolers' Negative Perceptions of Block-Based Programming** (CHI 2026, Best Paper) — Caryn Tran et al.
+  - Exemplifies: Tracing where learners' negative tool perceptions originate — longitudinal explanation, not just measurement, of attitudes.
+- **Touching Emotions, Smelling Shapes: Tactile, Olfactory and Emotional Cross-sensory Correspondences in Preschool-aged Children** (CHI 2026, Best Paper) — Tegan Joy Roberts-Morgan et al.
+  - Exemplifies: Foundational perceptual science with young children — cross-modal correspondences as an evidence base for multisensory design.
+- **With Visual Integrity and Care: A Framework for Mixed Methods Research on Visual Social Data** (CHI 2026, Best Paper) — Nina Lutz et al.
+  - Exemplifies: Methods and ethics framework for researching images at social-media scale — care built into analysis pipelines.
+
+## 11. Games, Play & Creativity
+
+- **Designing Gamified Applications that Make Safe Driving More Engaging** (CHI 2017, Best Paper) — Fabius Steinberger et al.
+  - Exemplifies: Gamification applied where the stakes are real (driving safety), with careful attention to when engagement helps vs. harms.
+- **Illumination Aesthetics: Light as a Creative Material within Computational Design** (CHI 2017, Best Paper) — Cesar Torres et al.
+  - Exemplifies: Treating light itself as a designable computational material, with tools that open the practice to creators.
+- **Data Illustrator: Augmenting Vector Design Tools with Lazy Data Binding for Expressive Visualization Authoring** (CHI 2018, Best Paper) — Zhicheng Liu et al.
+  - Exemplifies: Meeting designers inside their native tools (vector illustration) to make expressive data graphics — creativity support grounded in practice.
+- **Experiencing the Body as Play** (CHI 2018, Best Paper) — Florian Mueller et al.
+  - Exemplifies: A theoretical program for body-centric play — organizing years of exertion-games work into a generative framework.
+- **Extending Manual Drawing Practices with Artist-Centric Programming Tools** (CHI 2018, Best Paper) — Jennifer Jacobs et al.
+  - Exemplifies: Programming tools shaped around artists' existing manual practices — computation bending to craft, not vice versa.
+- **Social Play in an Exergame: How the Need to Belong Predicts Adherence** (CHI 2019, Best Paper) — Maximus D. Kaos et al.
+  - Exemplifies: Psychological-needs theory tested longitudinally to explain why people keep playing health games — mechanism over novelty.
+- **Me vs. Super(wo)man: Effects of Customization and Identification in a VR Exergame** (CHI 2020, Best Paper) — Jordan Koulouris et al.
+  - Exemplifies: Avatar identification effects (Proteus effect) rigorously tested in VR exercise — games research with strong experimental design.
+- **Exploring How Game Genre in Student-Designed Games Influences Computational Thinking Development** (CHI 2020, Best Paper) — Giovanni Maria Troiano et al.
+  - Exemplifies: Game creation as a learning vehicle, with genre as the analytic variable in computational-thinking outcomes.
+- **Techniques for Flexible Responsive Visualization Design** (CHI 2020, Best Paper) — Jane Hoffswell et al.
+  - Exemplifies: Design techniques for the neglected problem of visualizations that must work across screen sizes — practice-relevant viz authoring.
+- **Falx: Synthesis-Powered Visualization Authoring** (CHI 2021, Best Paper) — Chenglong Wang et al.
+  - Exemplifies: Program synthesis hidden behind example-driven interaction so non-programmers can author complex visualizations.
+- **The Ethics of Multiplayer Game Design and Community Management: Industry Perspectives and Challenges** (CHI 2021, Best Paper) — Lucy A. Sparrow et al.
+  - Exemplifies: Studying the people who govern play (designers, community managers) to surface ethics as a games-industry practice problem.
+- **ChartDetective: Easy and Accurate Interactive Data Extraction from Complex Vector Charts** (CHI 2023, Best Paper) — Damien Masson et al. [Paper](https://doi.org/10.1145/3544548.3581113)
+  - Exemplifies: Interactive tooling for reclaiming data trapped in published charts — mixed-initiative extraction with accuracy guarantees.
+- **DataParticles: Block-based and Language-oriented Authoring of Animated Unit Visualizations** (CHI 2023, Best Paper) — Yining Cao et al. [Paper](https://doi.org/10.1145/3544548.3581472)
+  - Exemplifies: Lowering the floor for data storytelling — language-driven authoring of animated visualizations for narrative creators.
+- **Playing with Feedback: Unpredictability, Immediacy, and Entangled Agency in the No-input Mixing Desk** (CHI 2023, Best Paper) — Tom Mudd. [Paper](https://doi.org/10.1145/3544548.3580662)
+  - Exemplifies: Instrumental practice analyzed to challenge HCI's control-centric view of interaction — unpredictability as creative resource.
+- **Piet: Facilitating Color Authoring for Motion Graphics Video** (CHI 2024, Best Paper) — Xinyu Shi et al.
+  - Exemplifies: A creativity-support tool built from close study of professional motion designers' color workflows.
+- **From Disorientation to Harmony: Autoethnographic Insights into Transformative Videogame Experiences** (CHI 2024, Best Paper) — Jaakko Väkevä et al.
+  - Exemplifies: Autoethnography of transformative play — first-person rigor applied to games' deepest experiential claims.
+- **DynaVis: Dynamically Synthesized UI Widgets for Visualization Editing** (CHI 2024, Best Paper) — Priyan Vaithilingam et al.
+  - Exemplifies: LLM-synthesized ephemeral UI — generating bespoke editing widgets on demand instead of fixed menus.
+- **ClueCart: Supporting Game Story Interpretation and Narrative Inference from Fragmented Clues** (CHI 2025, Best Paper) — Xiyuan Wang et al.
+  - Exemplifies: Tool support for a distinctive player practice (piecing together fragmented game narratives) — games scholarship meets sensemaking.
+- **RouteFlow: Trajectory-Aware Animated Transitions** (CHI 2025, Best Paper) — Duan Li et al.
+  - Exemplifies: Animation technique work (trajectory-aware transitions) validated for both aesthetics and comprehension.
+- **AMUSE: Human-AI Collaborative Songwriting with Multimodal Inspirations** (CHI 2025, Best Paper) — Yewon Kim et al.
+  - Exemplifies: Generative AI positioned as inspiration partner in songwriting, designed and evaluated with real musicians.
+- **"It's Like Being On Stage": Conveying Dancers' Expressiveness Through A Haptic-Installed Contemporary Dance Performance** (CHI 2025, Best Paper) — Ximing Shen et al.
+  - Exemplifies: Haptics in live performance art — technology transmitting expressiveness between dancer and audience.
+- **DreamGarden: A Designer Assistant for Growing Games from a Single Prompt** (CHI 2025, Best Paper) — Sam Earle et al.
+  - Exemplifies: LLM agents scaffolding whole-game creation while keeping the human designer in charge of the growing artifact.
+- **Are Semantic Networks Associated with Idea Originality in Artificial Creativity?** (CHI 2026, Best Paper) — Umberto Domanti et al.
+  - Exemplifies: Cognitive-science measures of creativity (semantic networks) applied to AI idea generation — rigor in assessing machine originality.
+- **BRIDGE: Borderless Reconfiguration for Inclusive and Diverse Gameplay Experience via Embodiment Transformation** (CHI 2026, Best Paper) — Hayato Saiki et al.
+  - Exemplifies: Embodiment transformation as a mechanism for inclusive multiplayer — play redesigned so different bodies can share one game.
+- **Mining Player Experience Trends From Game Reviews Using Large Language Models** (CHI 2026, Best Paper) — Supriya Dutta et al.
+  - Exemplifies: LLMs as analysis instruments for player-experience research at review-corpus scale, with validation against human coding.
+- **When Plants Play: Rethinking Plant Materiality in Digital Games** (CHI 2026, Best Paper) — Yoonji Lee & Chang Hee Lee.
+  - Exemplifies: More-than-human play — living plants as game material, expanding what games are made of.
+- **"An Experience That Could Not be Found Anywhere Else": Resonance as an Explanatory Concept for Player Experience Research** (CHI 2026, Best Paper) — Jaakko Väkevä et al.
+  - Exemplifies: Theory-building for player experience — importing resonance to explain transformative play beyond fun metrics.
+
+## 12. ICT4D, Sustainability & Society
+
+- **Understanding and Mitigating the Effects of Device and Cloud Service Design Decisions on the Environmental Footprint of Digital Infrastructure** (CHI 2016, Best Paper) — Chris Preist et al.
+  - Exemplifies: Sustainable HCI at infrastructure scale — tracing how design decisions ripple into data-center energy demand.
+- **Empowered Participation: How Citizens Use Technology in Local Governance** (CHI 2017, Best Paper) — Sheena Erete & Jennifer O. Burrell.
+  - Exemplifies: Civic tech studied through actual resident practices in local governance, attentive to race, class, and power.
+- **Streets for People: Engaging Children in Placemaking Through a Socio-technical Process** (CHI 2018, Best Paper) — Sean Peacock et al.
+  - Exemplifies: Children as civic participants — socio-technical placemaking that gives young people real voice in urban change.
+- **Design for Collaborative Survival: An Inquiry into Human-Fungi Relationships** (CHI 2018, Best Paper) — Jen Liu et al.
+  - Exemplifies: Sustainability reframed as multispecies interdependence — design inquiry with foragers and fungi, ahead of the more-than-human turn.
+- **Design Within a Patriarchal Society: Opportunities and Challenges in Designing for Rural Women in Bangladesh** (CHI 2018, Best Paper) — Sharifa Sultana et al.
+  - Exemplifies: ICT4D that confronts patriarchy as a design constraint honestly, from sustained fieldwork with rural Bangladeshi women.
+- **Guerilla Warfare and the Use of New (and Some Old) Technology: Lessons from FARC's Armed Struggle in Colombia** (CHI 2019, Best Paper) — Debora Castro Leal et al.
+  - Exemplifies: Fieldwork in a post-conflict setting few researchers can access — technology use in armed struggle and peace-building.
+- **Online grocery delivery services: An opportunity to address food disparities in transportation-scarce areas** (CHI 2019, Best Paper) — Tawanna R. Dillahunt et al.
+  - Exemplifies: Testing whether mainstream platforms can serve transportation-scarce communities — equity evaluated empirically, not assumed.
+- **Color and Animation Preferences for a Light Band eHMI in Interactions Between Automated Vehicles and Pedestrians** (CHI 2020, Best Paper) — Debargha Dey et al.
+  - Exemplifies: Empirically grounding how autonomous vehicles should communicate with the public — interface standards for shared streets.
+- **"That courage to encourage": Participation and Aspirations in Chat-based Peer Support for Youth Living with HIV** (CHI 2021, Best Paper) — Naveena Karusala et al.
+  - Exemplifies: Care-centered ICT4D — chat peer support for HIV+ youth in India, foregrounding aspiration rather than deficit.
+- **The Halting problem: Video analysis of self-driving cars in traffic** (CHI 2023, Best Paper) — Barry Brown et al. [Paper](https://doi.org/10.1145/3544548.3581045)
+  - Exemplifies: Ethnomethodological video analysis of AVs as social road actors — studying deployed autonomy in public space.
+- **Engaging recently incarcerated and gang affiliated Black and Latino/a young adults in designing social collocated applications for mixed reality smart glasses through community-based participatory design workshops** (CHI 2024, Best Paper) — Richard Martinez & Kurt Squire.
+  - Exemplifies: Community-based participatory design with justice-involved young adults — emerging tech agendas set by the marginalized, not for them.
+- **From Exploration to End of Life: Unpacking Sustainability in Physicalization Practices** (CHI 2024, Best Paper) — Luiz Morais et al.
+  - Exemplifies: Auditing a research practice's own material footprint (data physicalization) across its full lifecycle.
+- **Computing and the Stigmatized: Trust, Surveillance, and Spatial Politics with the Sex Workers in Bangladesh** (CHI 2024, Best Paper) — Pratyasha Saha et al.
+  - Exemplifies: Research with a criminalized, stigmatized community handled with methodological and ethical care — surveillance from the margins.
+- **Cosmovision Of Data: An Indigenous Approach to Technologies for Self-Determination** (CHI 2024, Best Paper) — Carlos Guerrero Millan et al.
+  - Exemplifies: Indigenous epistemologies shaping data technology on community terms — decolonial computing enacted, not just cited.
+- **"I am a Technology Creator": Black Girls as Technosocial Change Agents in a Culturally-Responsive Robotics Camp** (CHI 2025, Best Paper) — Chun Li et al.
+  - Exemplifies: Culturally responsive computing education positioning Black girls as creators and change agents — equity through pedagogy design.
+- **What Comes After Noticing?: Reflections on Noticing Solar Energy and What Came Next** (CHI 2025, Best Paper) — Angella Mackey et al.
+  - Exemplifies: Moving sustainable HCI from awareness ("noticing") to consequential next steps — reflective longitudinal design research.
+- **Civil Data Disobedience: Data Interaction Challenges in Human Rights Defense Organizations** (CHI 2026, Best Paper) — Maria Normark et al.
+  - Exemplifies: Data practices of human-rights defenders — where careful disobedience of data regimes is part of the work.
+- **From Using to Infrastructuring: Grassroots VPN-Building in Iran's Women-Life-Freedom Movement** (CHI 2026, Best Paper) — Sarvin Qalandar et al.
+  - Exemplifies: Documenting how a protest movement builds its own circumvention infrastructure — HCI at the intersection of censorship, gender, and resistance.
+- **Localized Imaginaries, Global Assets: Sociotechnical Imaginaries and the Assetization of Data Centers in Singapore** (CHI 2026, Best Paper) — Tanmaie Kailash & Cindy Kaiying Lin.
+  - Exemplifies: Critical infrastructure studies of the cloud's physical politics — data centers as contested national assets.
+- **MlondaCam: Context-Aware Smart Cameras for Domestic Security and Privacy in Malawian Homes** (CHI 2026, Best Paper) — George Chidziwisano et al.
+  - Exemplifies: Building and deploying smart-home security for African contexts on their own infrastructure and privacy terms.
+
+## Coverage Notes
+
+Research conducted July 2026 via web search (SIGCHI/conference award pages, the ACM Digital Library, Jeff Huang's "Best Paper Awards in Computer Science" compilation at jeffhuang.com/best_paper_awards, and university/industry press releases). All 369 official Best Paper winners for 2016–2026 are included above. Honorable Mentions are excluded for all years.
+
+- **CHI 2016** — Complete (23 Best Papers, all included). Source: official page chi2016.acm.org/wp/best-of-chi/, cross-checked against Jeff Huang's compilation.
+- **CHI 2017** — Likely complete (21 Best Papers, all included). No official awards page survives (the Wayback Machine capture is a 404); list from Jeff Huang's compilation, whose 2016 and 2018 entries match the official pages paper-for-paper. Treat the count of 21 as high-confidence but unofficial.
+- **CHI 2018** — Complete (25 Best Papers, all included). Source: official page chi2018.acm.org/attending/best-of-chi/ (page states 25 Best Papers).
+- **CHI 2019** — Complete (29 Best Papers, all included). Source: official page chi2019.acm.org/2019/03/15/chi-2019-best-papers-honourable-mentions/.
+- **CHI 2020** — Complete (31 Best Papers, all included). Source: official page chi2020.acm.org/for-attendees/chi-2020-best-papers-honourable-mentions/.
+- **CHI 2021** — Complete (28 Best Papers, all included). Source: official awards page chi2021.acm.org/information/5208.html.
+- **CHI 2022** — Complete (25 Best Papers, all included). Official conference award page is offline; list from Jeff Huang's compilation, triangulated against press releases (CMU HCII, Trinity College Dublin, Monash); all DOIs verified via Crossref.
+- **CHI 2023** — Complete (35 Best Papers, all included). Same sourcing as 2022, triangulated against seven press releases (UConn, Sony CSL, UChicago, Google, TU Delft, Oxford, UMD); all DOIs verified via Crossref.
+- **CHI 2024** — Complete (40 Best Papers, all included; 40 = top 1% of ~4,000 submissions). Sources: programs.sigchi.org/chi/2024/awards via Jeff Huang's compilation; cross-checked with Waterloo and Exertion Games Lab announcements.
+- **CHI 2025** — Complete (50 Best Papers, all included). Sources: official announcement chi2025.acm.org/best-paper-and-honorable-mention-awards-at-chi-2025/ (confirms 50 winners = 1% of 5,014 submissions) and programs.sigchi.org/chi/2025/awards/.
+- **CHI 2026** — Complete (62 Best Papers, all included); awards announced at CHI 2026 (Barcelona, April 2026). Sources: programs.sigchi.org/chi/2026/awards via Jeff Huang's compilation, cross-validated against press releases from CMU HCII, ETH Zurich, SFU, Georgia Tech, UW-Madison, and Oldenburg.
+
+Papers without inline links are findable on dl.acm.org by title under the CHI proceedings DOI prefixes: 10.1145/2858036 (2016), 10.1145/3025453 (2017), 10.1145/3173574 (2018), 10.1145/3290605 (2019), 10.1145/3313831 (2020), 10.1145/3411764 (2021), 10.1145/3491102 (2022), 10.1145/3544548 (2023).
